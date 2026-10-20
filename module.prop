@@ -1,0 +1,7 @@
+id=extreme_gt
+name=Extreme GT (WiFi Fix Edition)
+version=4.2.2-fix
+versionCode=4212
+author=嘟嘟ski & SCENE (Fixed by Haoduo9 & Hermes)
+description=专为 Realme GT6 / ColorOS 14+ 深度优化修复版。剔除导致高通 WCN785x (kiwi_v2) 芯片 D3cold 假死与 horae 冲突的毒瘤代码，保留全局 144Hz 满血刷新率、快充温控放宽及满血性能调度！
+minMagisk=17000

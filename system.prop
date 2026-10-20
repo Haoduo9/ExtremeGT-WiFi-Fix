@@ -1,0 +1,3 @@
+# Extreme GT (WiFi Fix Edition for Realme GT6)
+# 保留原生 horae 供电与温控守护，严禁注入 persist.sys.horae.enable=0
+# 彻底杜绝高通 WCN785x (kiwi_v2) 芯片下电 D3cold 假死问题

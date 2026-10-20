@@ -1,0 +1,5 @@
+SkinTemperatureNode:   battery
+SkinNodeThrottleTemp:  55000
+#GameID   GameAPK    MaxTemperature  MaxCurrent  AvgCurrent
+100001    hok         52000          2000        1800
+0         adaptive    55000          2000        1800

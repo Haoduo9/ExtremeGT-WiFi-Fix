@@ -1,0 +1,1469 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><!-- format: mode_auto-mode_90-mode_60-mode_120
+     value: 0(unspecified), 1(90Hz), 2(60Hz), 3(120Hz), 4(144Hz)
+     rateId="3-1-2-3" the preferred refresh rate id per setting mode
+     setting mode: auto  ,90hz     ,60hz  ,120hz
+     refresh rate: 120hz ,90hz,  60hz  ,120hz
+-->
+<refresh_rate_config ratemagic="7675R60_90_120" version="20260119">
+    
+    <item package="com.heytap.smarthome" rateId="2-1-2-1" /> 
+    <item package="com.greenpoint.android.mc10086.activity" rateId="2-1-2-1" /> 
+    <item package="com.sinovatech.unicom.ui" rateId="2-1-2-1" /> 
+    <item package="com.sgcc.wsgw.cn" rateId="2-1-2-1" /> 
+    <item package="com.ct.client" rateId="2-1-2-1" /> 
+    <item package="com.cmbchina.ccd.pluto.cmbActivity" rateId="2-1-2-1" /> 
+    <item package="com.kingpoint.gmcchh" rateId="2-1-2-1" /> 
+    <item package="net.evecom.android.mztapp" rateId="2-1-2-1" /> 
+    <item package="com.example.businesshall" rateId="2-1-2-1" /> 
+    <item package="com.jsmcc" rateId="2-1-2-1" /> 
+    <item package="com.snda.wifilocating" rateId="2-1-2-1" /> 
+    <item package="com.moji.mjweather" rateId="2-1-2-1" /> 
+    <item package="cn.gov.tax.its" rateId="2-1-2-1" /> 
+    <item package="com.snda.lantern.wifilocating" rateId="2-1-2-1" /> 
+    <item package="com.cmri.universalapp" rateId="2-1-2-1" /> 
+    <item package="com.yueme.itv" rateId="2-1-2-1" /> 
+    <item package="com.gotokeep.keep" rateId="2-1-2-1" /> 
+    <item package="com.clover.daysmatter" rateId="2-1-2-1" /> 
+    <item package="cn.hsa.app" rateId="2-1-2-1" /> 
+    <item package="com.lu.ashionweather" rateId="2-1-2-1" /> 
+    <item package="com.xtc.watch" rateId="2-1-2-1" /> 
+    <item package="com.tianyancha.skyeye" rateId="2-1-2-1" /> 
+    <item package="com.caict.xingchengka" rateId="2-1-2-1" /> 
+    <item package="com.cssq.key" rateId="2-1-2-1" /> 
+    <item package="com.android.dlna.service" rateId="2-1-2-1" /> 
+    <item package="com.seetong.app.seetong" rateId="2-1-2-1" /> 
+    <item package="com.happy.walker" rateId="2-1-2-1" /> 
+    <item package="com.xiaomi.smarthome" rateId="2-1-2-1" /> 
+    <item package="com.youloft.calendar" rateId="2-1-2-1" /> 
+    <item package="com.baidu.duer.superapp" rateId="2-1-2-1" /> 
+    <item package="com.yitong.zjrc.mfs.android" rateId="2-1-2-1" /> 
+    <item package="com.wifi.key" rateId="2-1-2-1" /> 
+    <item package="com.tianqiyubao2345" rateId="2-1-2-1" /> 
+    <item package="com.yaoqi.zhiyuweather" rateId="2-1-2-1" /> 
+    <item package="com.ccb.longjiLife" rateId="2-1-2-1" /> 
+    <item package="com.wifi.link.wfys" rateId="2-1-2-1" /> 
+    <item package="com.ogbandroidaoy.mkdctsvoltage.cvq" rateId="2-1-2-1" /> 
+    <item package="vip.fish.everydaylovesteps" rateId="2-1-2-1" /> 
+    <item package="io.dcloud.H576E6CC7" rateId="2-1-2-1" /> 
+    <item package="com.xiachufang" rateId="2-1-2-1" /> 
+    <item package="com.tplink.ipc" rateId="2-1-2-1" /> 
+    <item package="com.qihui.wifi.quicklylink" rateId="2-1-2-1" /> 
+    <item package="cn.etouch.ecalendar" rateId="2-1-2-1" /> 
+    <item package="com.hainansy.jnxfsh" rateId="2-1-2-1" /> 
+    <item package="com.tianqi2345" rateId="2-1-2-1" /> 
+    <item package="com.huawei.health" rateId="2-1-2-1" /> 
+    <item package="com.ganji.android.haoche_c" rateId="2-1-2-1" /> 
+    <item package="com.ebank.creditcard" rateId="2-1-2-1" /> 
+    <item package="com.huodao.hdphone" rateId="2-1-2-1" /> 
+    <item package="com.cmcc.hebao" rateId="2-1-2-1" /> 
+    <item package="com.jx.cmcc.ict.ibelieve" rateId="2-1-2-1" /> 
+    <item package="com.icoolme.android.weather" rateId="2-1-2-1" /> 
+    <item package="com.alibaba.ailabs.tg" rateId="2-1-2-1" /> 
+    <item package="com.sqbranch.rain" rateId="2-1-2-1" /> 
+    <item package="com.azandroidqov.rcectsfactor.ztg" rateId="2-1-2-1" /> 
+    <item package="com.sitech.ac" rateId="2-1-2-1" /> 
+    <item package="com.hpplay.happycast" rateId="2-1-2-1" /> 
+    <item package="com.gkid.crazyrope" rateId="2-1-2-1" /> 
+    <item package="com.sunboxsoft.charge.institute" rateId="2-1-2-1" /> 
+    <item package="com.wifi.wifijiasujingling" rateId="2-1-2-1" /> 
+    <item package="happy.animal.stepassistantsecond" rateId="2-1-2-1" /> 
+    <item package="com.nineton.shouzhang" rateId="2-1-2-1" /> 
+    <item package="apple.dog.walltocounternext" rateId="2-1-2-1" /> 
+    <item package="com.midea.ai.appliances" rateId="2-1-2-1" /> 
+    <item package="com.randroiduk.xzpctsapple" rateId="2-1-2-1" /> 
+    <item package="com.qsmy.walkmonkey" rateId="2-1-2-1" /> 
+    <item package="com.youqi.miaomiao" rateId="2-1-2-1" /> 
+    <item package="cn.yonghui.hyd" rateId="2-1-2-1" /> 
+    <item package="com.seebaby" rateId="2-1-2-1" /> 
+    <item package="com.cmbc.cc.mbank" rateId="2-1-2-1" /> 
+    <item package="com.julanling.app" rateId="2-1-2-1" /> 
+    <item package="com.link.wifi" rateId="2-1-2-1" /> 
+    <item package="com.ark.joyweather.cn" rateId="2-1-2-1" /> 
+    <item package="com.mm.android.lc" rateId="2-1-2-1" /> 
+    <item package="com.threegene.yeemiao" rateId="2-1-2-1" /> 
+    <item package="com.ark.superweather.cn" rateId="2-1-2-1" /> 
+    <item package="com.xiaomi.hm.health" rateId="2-1-2-1" /> 
+    <item package="sina.mobile.tianqitong" rateId="2-1-2-1" /> 
+    <item package="cn.com.hkgt.gasapp" rateId="2-1-2-1" /> 
+    <item package="com.huawei.wear.guard" rateId="2-1-2-1" /> 
+    <item package="com.hykb.yuanshenmap" rateId="2-1-2-1" /> 
+    <item package="com.rinkuandroid.server.ctshost" rateId="2-1-2-1" /> 
+    <item package="com.geek.luck.calendar.app" rateId="2-1-2-1" /> 
+    <item package="com.czb.chezhubang" rateId="2-1-2-1" /> 
+    <item package="com.lianaibiji.dev" rateId="2-1-2-1" /> 
+    <item package="com.plm.android.wifimaster" rateId="2-1-2-1" /> 
+    <item package="com.geek.jk.weather" rateId="2-1-2-1" /> 
+    <item package="com.shuyun.wifi.manager" rateId="2-1-2-1" /> 
+    <item package="com.shineyue.sjgjj" rateId="2-1-2-1" /> 
+    <item package="com.tencent.wifimanager" rateId="2-1-2-1" /> 
+    <item package="com.xmbranch.zhima" rateId="2-1-2-1" /> 
+    <item package="com.inphase.mojing" rateId="2-1-2-1" /> 
+    <item package="com.huawei.smarthome" rateId="2-1-2-1" /> 
+    <item package="cn.igvandroidpt.uactsoptic.vb" rateId="2-1-2-1" /> 
+    <item package="happy.cat.walkingtreasurenext" rateId="2-1-2-1" /> 
+    <item package="com.fandroidrive.penta.ace" rateId="2-1-2-1" /> 
+    <item package="com.wifi.boost.onetouch" rateId="2-1-2-1" /> 
+    <item package="com.chif.weather" rateId="2-1-2-1" /> 
+    <item package="com.weatherday" rateId="2-1-2-1" /> 
+    <item package="com.laolaiwangtech" rateId="2-1-2-1" /> 
+    <item package="com.zhuofeng.wifi.occurenjoy" rateId="2-1-2-1" /> 
+    <item package="com.ninesixshop.say" rateId="2-1-2-1" /> 
+    <item package="com.yizhiws.weather" rateId="2-1-2-1" /> 
+    <item package="com.gioct.weather" rateId="2-1-2-1" /> 
+    <item package="com.geek.xgweather" rateId="2-1-2-1" /> 
+    <item package="com.plan.kot32.tomatotime" rateId="2-1-2-1" /> 
+    <item package="com.justexceptions.loc_weather" rateId="2-1-2-1" /> 
+    <item package="com.freewifi.shunlian" rateId="2-1-2-1" /> 
+    <item package="com.mymoney" rateId="2-1-2-1" /> 
+    <item package="com.taikang.tailife" rateId="2-1-2-1" /> 
+    <item package="vip.qufenqian.wallhasbao" rateId="2-1-2-1" /> 
+    <item package="com.android.icredit" rateId="2-1-2-1" /> 
+    <item package="com.haier.uhome.uplus" rateId="2-1-2-1" /> 
+    <item package="com.app.shanghai.metro" rateId="2-1-2-1" /> 
+    <item package="com.shark.jizhang" rateId="2-1-2-1" /> 
+    <item package="cn.com.chsi.chsiapp" rateId="2-1-2-1" /> 
+    <item package="cn.qpoandroidlmf.ckctssquare.fty" rateId="2-1-2-1" /> 
+    <item package="com.duokan.phone.remotecontroller" rateId="2-1-2-1" /> 
+    <item package="com.fido.asm" rateId="2-1-2-1" /> 
+    <item package="com.topspeed.weather" rateId="2-1-2-1" /> 
+    <item package="com.jooan.qiaoanzhilian" rateId="2-1-2-1" /> 
+    <item package="cn.aovandroidskg.dtwctscool.ttr" rateId="2-1-2-1" /> 
+    <item package="com.tplink.cloudrouter" rateId="2-1-2-1" /> 
+    <item package="com.hellogeek.iheshui" rateId="2-1-2-1" /> 
+    <item package="com.langtong.wifi.fifth" rateId="2-1-2-1" /> 
+    <item package="com.lenovo.anyshare.gps" rateId="2-1-2-1" /> 
+    <item package="cn.mgrandroidxvq.ftctspower.xsj" rateId="2-1-2-1" /> 
+    <item package="com.xmy.wannnengwifi" rateId="2-1-2-1" /> 
+    <item package="com.nowcasting.activity" rateId="2-1-2-1" /> 
+    <item package="com.youloft.icloser" rateId="2-1-2-1" /> 
+    <item package="com.asput.youtushop" rateId="2-1-2-1" /> 
+    <item package="com.maiya.weather" rateId="2-1-2-1" /> 
+    <item package="com.yaoqi.tomatoweather" rateId="2-1-2-1" /> 
+    <item package="enfc.metro" rateId="2-1-2-1" /> 
+    <item package="com.yoloho.dayima" rateId="2-1-2-1" /> 
+    <item package="com.pingan.papd" rateId="2-1-2-1" /> 
+    <item package="net.sandroidbp.ctctsoptic.bh" rateId="2-1-2-1" /> 
+    <item package="cn.yq.days" rateId="2-1-2-1" /> 
+    <item package="com.sdhs.easy.high.road" rateId="2-1-2-1" /> 
+    <item package="com.wochacha" rateId="2-1-2-1" /> 
+    <item package="com.zzw.october" rateId="2-1-2-1" /> 
+    <item package="com.baidu.carlife" rateId="2-1-2-1" /> 
+
+
+    
+    <item package="com.tencent.tmgp.sgame" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.pubgmhd" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.netease.mc.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.netease.mc.bili" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.KiHan" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.blizzard.wtcg.hearthstone" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.h1game.nearme.gamecenter" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.h1game" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.lolm" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.cod" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.ChillyRoom.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.ChillyRoom.DungeonShooter" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.pwrd.hotta.laohu" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.bilibili" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.mi" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.aligames" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.hotta" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.huawei" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.games.hotta.vivo" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hottagames.hotta.m4399" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.pwrd.hotta.laohu" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.mk" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.mk.bilibili" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.mk.asia.qooapp" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hermes.mk.asia" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.supercell.clashofclans.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.tencent.tmgp.supercell.clashofclans" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.netease.hyxd.nearme.gamecenter" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.bili" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.ewan" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.kuaishou" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.m4399" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd1.meta" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.honor" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.aligames" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.mz" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.huawei" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxd.vivo" rateId="3-1-2-3" /> 
+    <item package="com.netease.ko" rateId="3-1-2-3" /> 
+    <item package="com.netease.hyxdtw" rateId="3-1-2-3" /> 
+    <item package="com.netease.kolite" rateId="3-1-2-3" /> 
+    <item package="com.supercell.clashroyale.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.supercell.clashroyale" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.djsy" rateId="1-1-2-1" /> 
+    <item package="com.netease.cfxf.aligames" rateId="3-1-2-3" /> 
+    <item package="com.netease.cfxf.nearme.gamecenter" rateId="3-1-2-3" /> 
+    <item package="com.netease.aceracer.aligames" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.netease.aceracer.nearme.gamecenter" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.yingxiong.hero.aligames" rateId="1-1-2-1" /> 
+    <item package="com.yingxiong.heroo.nearme.gamecenter" rateId="1-1-2-1" /> 
+    <item package="com.miHoYo.bh3.nearme.gamecenter" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.aligames.kuang.kybc.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.aligames.kuang.kybc-com.aligames.kuang.kybc.m4399" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.aligames.kuang.kybc.aligames" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.tencent.tmgp.aligames.kybc" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.gameloft.android.ANMP.GloftA9HM" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.aligames.kuang.kybc.papa" rateId="3-1-2-3" disableViewOverride="true" adfr="true" />  
+    <item package="com.netease.pm02" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.netease.pm02.nearme.gamecenter" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.tencent.tmgp.gnyx" rateId="1-1-2-1" disableViewOverride="true"/> 
+    <item package="com.tencent.mf.uam" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.mf.uamty" rateId="3-1-2-3" /> 
+    <item package="com.aqtw.zz" rateId="3-1-2-3" /> 
+    <item package="com.netease.allstar.nearme.gamecenter" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.netease.allstar" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.codev" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.projectc" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.vgamecrty.projv" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.dfm" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.tencent.tmgp.dfmexper" rateId="3-1-2-3" disableViewOverride="true" /> 
+    <item package="com.proxima.dfm" rateId="3-1-2-3" disableViewOverride="true" /> 
+
+    
+    <item package="bubei.tingshu" rateId="2-1-2-3" /> 
+    <item package="com.tencent.radio" rateId="2-1-2-3" /> 
+    <item package="fm.qingting.qtradio" rateId="2-1-2-3" /> 
+    <item package="com.changba" rateId="2-1-2-3" /> 
+    <item package="cmccwm.mobilemusic" rateId="2-1-2-3" /> 
+    <item package="com.tencent.qqmusic" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.ximalaya.ting.android" rateId="2-1-2-3" /> 
+    <item package="com.netease.cloudmusic" rateId="2-1-2-3" /> 
+    <item package="com.tencent.karaoke" rateId="2-1-2-3" /> 
+    <item package="com.kugou.android" rateId="2-1-2-3" /> 
+    <item package="com.heytap.music" rateId="2-1-2-3" /> 
+    <item package="com.xs.fm" rateId="2-1-2-3" /> 
+    <item package="com.shoujiduoduo.ringtone" rateId="2-1-2-3" /> 
+    <item package="com.yiyou.ga" rateId="2-1-2-3" /> 
+    <item package="cn.kuwo.player" rateId="2-1-2-3" /> 
+    <item package="com.kugou.android.ringtone" rateId="2-1-2-3" /> 
+    <item package="com.kugou.android.elder" rateId="2-1-2-3" /> 
+    <item package="com.ximalaya.ting.lite" rateId="2-1-2-3" /> 
+    <item package="cn.missevan" rateId="2-1-2-3" /> 
+    <item package="com.xiaomi.mico" rateId="2-1-2-3" /> 
+    <item package="com.sinyee.babybus.chants" rateId="2-1-2-3" /> 
+    <item package="com.caf.fmradio" rateId="2-1-2-3" /> 
+    <item package="com.ld.ring" rateId="2-1-2-3" /> 
+    <item package="com.qingot.realtime" rateId="2-1-2-3" /> 
+    <item package="com.laidian.xiu" rateId="2-1-2-3" /> 
+    <item package="com.kugou.android.ktvapp" rateId="2-1-2-3" /> 
+    <item package="com.google.android.music" rateId="2-1-2-3" /> 
+    <item package="com.ks.kaishustory" rateId="2-1-2-3" /> 
+    <item package="com.qgvoice.youth" rateId="2-1-2-3" /> 
+    <item package="com.google.android.accessibility.soundamplifier" rateId="2-1-2-3" /> 
+    <item package="com.kugou.shiqutouch" rateId="2-1-2-3" /> 
+    <item package="com.kwai.hisense" rateId="2-1-2-3" /> 
+    <item package="com.happyteam.dubbingshow" rateId="2-1-2-3" /> 
+    <item package="com.bell.perfectdialer" rateId="2-1-2-3" /> 
+    <item package="com.kugou.android.lite" rateId="2-1-2-3" /> 
+    <item package="com.shoujiduoduo.dj" rateId="2-1-2-3" /> 
+    <item package="com.rockets.chang" rateId="2-1-2-3" /> 
+    <item package="cn.wenyu.bodian" rateId="2-1-2-3" /> 
+    <item package="com.sina.weibo" rateId="1-1-2-3" disableViewOverride="true"/> 
+
+
+    
+    <item package="com.ss.android.article.news" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.xingin.xhs" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.hipu.yidian" rateId="1-1-2-3" /> 
+    <item package="com.tencent.news" rateId="1-1-2-3" /> 
+    <item package="com.ss.android.article.lite" rateId="1-1-2-3" /> 
+    <item package="com.jifen.qukan" rateId="1-1-2-3" /> 
+    <item package="cn.weli.story" rateId="1-1-2-3" /> 
+    <item disableViewOverride="true" package="com.sina.news" rateId="1-1-2-3" /> 
+    <item package="com.ifeng.news2" rateId="1-1-2-3" /> 
+    <item package="com.netease.newsreader.activity" rateId="1-1-2-3" /> 
+    <item package="com.cashtoutiao" rateId="1-1-2-3" /> 
+    <item package="com.sina.weibolite" rateId="1-1-2-3" /> 
+    <item package="com.sohu.newsclient" rateId="1-1-2-3" /> 
+    <item package="cn.com.sina.finance" rateId="1-1-2-3" /> 
+    <item package="cn.youth.news" rateId="1-1-2-3" /> 
+    <item package="com.ddyc.lotterytool" rateId="1-1-2-3" /> 
+    <item package="com.hupu.games" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.coloros.note" rateId="1-1-2-3" /> 
+    <item activity="com.coloros.note/com.nearme.note.activity.richedit.NoteViewRichEditActivity" disableViewOverride="true" package="com.coloros.note" rateId="1-1-2-3" />
+    <item activity="com.coloros.note/com.nearme.note.setting.SettingsSyncSwitchActivity" package="com.coloros.note" rateId="3-1-2-3" />
+    <item package="com.heytap.speechassist" rateId="1-1-2-3" /> 
+    <item activity="com.heytap.speechassist/com.heytap.speechassist.settings.activity.SettingsActivity" package="com.heytap.speechassist" rateId="3-1-2-3" />  
+    <item activity="com.heytap.speechassist/com.heytap.speechassist.home.settings.ui.SettingsActivity" package="com.heytap.speechassist" rateId="3-1-2-3" />  
+    <item activity="com.heytap.speechassist/com.heytap.speechassist.guide.guidepage.GuideActivity" package="com.heytap.speechassist" rateId="3-1-2-3" />  
+    <item activity="com.heytap.speechassist/com.heytap.speechassist.home.boot.guide.ui.GuideActivity" package="com.heytap.speechassist" rateId="3-1-2-3" />  
+    <item package="com.coloros.calendar" rateId="1-1-2-3" /> 
+    <item activity="com.coloros.calendar/com.android.calendar.oppo.preferences.CalendarCloudSyncActivity" package="com.coloros.calendar" rateId="3-1-2-3" />
+    <item package="com.coloros.calculator" rateId="1-1-2-1" /> 
+    <item package="com.coloros.alarmclock" rateId="1-1-2-1" /> 
+    <item activity="com.coloros.alarmclock/com.oplus.alarmclock.alarmclock.AddAlarmActivity" disableViewOverride="true" package="com.coloros.alarmclock" rateId="3-1-2-3" />  
+    <item package="com.coloros.weather2" rateId="1-1-2-3" /> 
+    <item activity="com.coloros.weather2/com.coloros.weather.main.view.WeatherMainActivity" disableViewOverride="true" package="com.coloros.weather2" rateId="3-1-2-3" />  
+    <item activity="com.coloros.weather2/com.oplus.weather.main.view.WeatherMainActivity" disableViewOverride="true" package="com.coloros.weather2" rateId="3-1-2-3" />  
+    <item activity="com.coloros.backuprestore/com.oplus.backuprestore.BootActivity" package="com.coloros.backuprestore" rateId="3-1-2-3" />  
+    <item activity="com.coloros.backuprestore/com.oplus.backuprestore.activity.BackupRestoreMainActivity" package="com.coloros.backuprestore" rateId="3-1-2-3" />
+    <item package="com.coloros.compass2" rateId="1-1-2-1" /> 
+    <item package="com.coloros.familyguard" rateId="1-1-2-3" /> 
+    <item package="com.coloros.soundrecorder" rateId="1-1-2-3" /> 
+    <item activity="com.coloros.soundrecorder/com.recorder.cloudkit.sync.ui.SettingRecordSyncActivity" package="com.coloros.soundrecorder" rateId="3-1-2-3" />
+    <item package="com.oplus.rom" rateId="3-1-2-3" />
+    <item activity="com.oplus.rom/com.oplus.rom.settings.SpaceRouletteSettingActivity" package="com.oplus.rom" rateId="3-1-2-3" />
+    <item package="com.realme.smartdrive" rateId="3-1-2-3" />
+    <item activity="com.realme.smartdrive/com.realme.smartdrive.ui.activity.SmartDriveFullActivity" package="com.realme.smartdrive" rateId="3-1-2-3" />
+    <item package="com.google.android.accessibility.switchaccess" rateId="3-1-2-3" />
+    <item activity="com.google.android.accessibility.switchaccess/com.google.android.accessibility.switchaccess.preferences.activity.SwitchAccessPreferenceActivity" package="com.google.android.accessibility.switchaccess" rateId="3-1-2-3" />
+    <item package="com.google.android.projection.gearhead" rateId="1-1-2-1" />
+    <item activity="com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.settings.Material3SettingsActivity" package="com.google.android.projection.gearhead" rateId="3-1-2-3" />
+    <item activity="com.coloros.oshare/com.oplus.oshare.ui.IOSHelpActivity" package="com.coloros.oshare" rateId="3-1-2-3" />
+    <item package="com.glance.internet" rateId="3-1-2-3" />
+    <item activity="com.glance.internet/com.glance.internet.ui.SettingActivity" package="com.glance.internet" rateId="3-1-2-3" />
+    <item package="com.oplus.beaconlink" rateId="3-1-2-3" />
+    <item activity="com.oplus.beaconlink/com.oplus.beaconlink.view.NetworkLessSettingsActivity" package="com.oplus.beaconlink" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity" package="com.google.android.apps.adm" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.walletnfcrel/com.google.android.apps.wallet.main.WalletActivity" package="com.google.android.apps.walletnfcrel" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.home.HomeActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.medicalinfo.ui.MedicalInfoSettingsActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.emergencycontacts.settings.EditEmergencyContactsSettingsActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.emergencycontacts.settings.EmergencyContactsSettingsActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.emergencysos.settings.EmergencySosSettingsActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.crisis.settings.CrisisSettingsActivity" package="com.google.android.apps.safetyhub" rateId="3-1-2-3" />
+    <item activity="com.google.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastSettings" package="com.google.android.cellbroadcastreceiver" rateId="3-1-2-3" />
+    <item activity="com.google.android.googlequicksearchbox/com.google.android.apps.search.googleapp.settingsui.SettingsActivity" package="com.google.android.googlequicksearchbox" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.applimits.ui.AppLimitsActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.mindfulnudge.ui.MindfulNudgeActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.walkingdetection.ui.WalkingDetectionSettingsActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />
+
+    
+
+
+    
+    <item package="com.android.contacts" rateId="3-1-2-3" /> 
+    <item activity="com.android.contacts/com.android.contacts.framework.cloudsync.sync.ui.CloudSyncSettingActivity" package="com.android.contacts" rateId="3-1-2-3" />
+    <item package="com.cootek.smartdialer" rateId="2-1-2-1" /> 
+
+
+    
+    <item package="com.tencent.qqlive" rateId="2-1-2-1" lowfreq="true" appreqfirst="true"/> 
+    <item package="com.qiyi.video" rateId="2-1-2-1" lowfreq="true"/> 
+    <item package="tv.danmaku.bili" rateId="1-1-2-3" lowfreq="true"/> 
+
+
+    
+    <item package="com.tencent.mobileqq" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.mm" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item activity="com.tencent.mm/.plugin.finder.ui.FinderHomeAffinityUI" package="com.tencent.mm" rateId="3-1-2-3" animatingDelayTime="300"/>
+    <item activity="com.tencent.mm/.plugin.finder.ui.FinderShareFeedRelUI" package="com.tencent.mm" rateId="3-1-2-3" />
+    <item package="com.teamtalk.im" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="io.liuliu.music" rateId="1-1-2-3" /> 
+    <item package="com.zhenai.android" rateId="1-1-2-3" /> 
+    <item package="com.ifreetalk.ftalk" rateId="1-1-2-3" /> 
+    <item package="com.p1.mobile.putong" rateId="1-1-2-3" /> 
+    <item package="cn.soulapp.android" rateId="1-1-2-3" /> 
+    <item package="com.immomo.momo" rateId="1-1-2-3" /> 
+    <item package="com.hzsj.dsjy" rateId="1-1-2-3" /> 
+    <item package="com.welove520.qqsweet" rateId="1-1-2-3" /> 
+    <item package="com.yunzhan.liaobei" rateId="1-1-2-3" /> 
+    <item package="com.wzf.fan" rateId="1-1-2-3" /> 
+    <item package="com.mosheng" rateId="1-1-2-3" /> 
+    <item package="im.chaoxin" rateId="1-1-2-3" /> 
+    <item package="com.luojilab.player" rateId="1-1-2-3" /> 
+    <item package="com.zenmen.palmchat" rateId="1-1-2-3" /> 
+    <item package="me.yidui" rateId="1-1-2-3" /> 
+    <item package="com.netease.moyi" rateId="1-1-2-3" /> 
+    <item package="com.sh.shuihulu.kiwi" rateId="1-1-2-3" /> 
+    <item package="com.yuwan.qiutian" rateId="1-1-2-3" /> 
+    <item package="com.cqmygysdss.yyds" rateId="1-1-2-3" /> 
+    <item package="com.l13bc4866f.f509bd6ecb" rateId="1-1-2-3" /> 
+    <item package="com.lwhy.youtang" rateId="1-1-2-3" /> 
+    <item package="com.xingjiabi.shengsheng" rateId="1-1-2-3" /> 
+    <item package="com.yidian.zheli" rateId="1-1-2-3" /> 
+    <item package="com.julun.jiuliao" rateId="1-1-2-3" /> 
+    <item package="com.excean.dualaid" rateId="1-1-2-3" /> 
+    <item package="com.tencent.minihd.qq" rateId="1-1-2-3" /> 
+    <item package="com.xunai.sleep" rateId="1-1-2-3" /> 
+    <item package="com.huanyou.fjxasn" rateId="1-1-2-3" /> 
+    <item package="com.ycyh.comemeet" rateId="1-1-2-3" /> 
+    <item package="com.zing.zalo" rateId="1-1-2-3" /> 
+    <item package="com.yyhd.happywolf" rateId="1-1-2-3" /> 
+    <item package="com.yuwan.tmshipin" rateId="1-1-2-3" /> 
+    <item package="com.excelliance.dualaid" rateId="1-1-2-3" /> 
+    <item package="com.shouxiu.xiangqin" rateId="1-1-2-3" /> 
+    <item package="com.moliao.main" rateId="1-1-2-3" /> 
+    <item package="com.sina.oasis" rateId="1-1-2-3" /> 
+
+
+    
+    <item package="com.oplus.wirelesssettings" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.wirelesssettings/com.android.settings.SettingsActivity" package="com.oplus.wirelesssettings" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wirelesssettings/com.android.settings.Settings$WifiApConnectivityManagerActivity" package="com.oplus.wirelesssettings" rateId="3-1-2-3" />
+    <item activity="com.oplus.wirelesssettings/com.oplus.wirelesssettings.wifi.cm.CustomBlackListActivity" package="com.oplus.wirelesssettings" rateId="3-1-2-3" />
+    <item activity="com.oplus.wirelesssettings/com.android.settings.Settings$VpnSettingsActivity" package="com.oplus.wirelesssettings" rateId="3-1-2-3" />
+    <item package="com.android.launcher" rateId="3-1-2-3" /> 
+    <item package="com.oplus.pantanal.ums" rateId="3-1-2-3" /> 
+    <item package="com.android.settings" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item activity="com.android.settings/com.oplus.settings.feature.fingerprint.NewFingerEnrollActivity" package="com.android.settings" rateId="3-1-2-3" />  
+    <item package="com.android.phone" rateId="3-1-2-3" /> 
+    <item activity="com.android.phone/com.android.simsettings.activity.OplusSimSettingsActivity" package="com.android.phone" rateId="3-1-2-3" />  
+    <item activity="com.android.phone/com.android.phone.OplusCallFeaturesSetting" package="com.android.phone" rateId="3-1-2-3" />
+    <item package="com.oplus.uxdesign" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.uxdesign/com.oplus.uxdesign.personal.PersonalActivity" package="com.oplus.uxdesign" rateId="3-1-2-3" />  
+    <item activity="com.oplus.uxdesign/com.oplus.uxdesign.uxcolor.UxColorSettingActivity" package="com.oplus.uxdesign" rateId="3-1-2-3" />  
+    <item activity="com.oplus.uxdesign/com.oplus.uxdesign.icon.UxIconStyleActivity" package="com.oplus.uxdesign" rateId="3-1-2-3" />  
+    <item package="com.coloros.assistantscreen" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.assistantscreen/com.oplus.assistantscreen.card.shortcuts.ui.ShortcutSettingActivity" disableViewOverride="true" package="com.coloros.assistantscreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.assistantscreen/com.oplus.card.ui.settings.AssistantScreenSettingActivity" disableViewOverride="true" package="com.coloros.assistantscreen" rateId="3-1-2-3" />
+    <item package="com.coloros.smartsidebar" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.smartsidebar/com.oplus.edgepanel.settings.EdgePanelSettingsActivity" package="com.coloros.smartsidebar" rateId="3-1-2-3" />  
+    <item activity="com.coloros.smartsidebar/com.coloros.edgepanel.settings.EdgePanelSettingsActivity" package="com.coloros.smartsidebar" rateId="3-1-2-3" />  
+    <item package="com.oplus.ocar" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.ocar/com.oplus.ocar.settings.CarPreferencesActivity" package="com.oplus.ocar" rateId="3-1-2-3" />  
+    <item package="com.oplus.omoji" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.omoji/com.oplus.omoji.ui.GuideActivity" package="com.oplus.omoji" rateId="3-1-2-3" />  
+    <item activity="com.oplus.omoji/com.oplus.omoji.ui.EmptyActivity" package="com.oplus.omoji" rateId="3-1-2-3" />  
+    <item activity="com.oplus.omoji/com.oplus.omoji.ui.MainActivity" disableViewOverride="true" package="com.oplus.omoji" rateId="3-1-2-3" />  
+    <item package="com.coloros.oshare" rateId="3-1-2-3" /> 
+    <item package="com.heytap.ocsp.client" rateId="3-1-2-3" /> 
+    <item package="com.oplus.owork" rateId="3-1-2-3" /> 
+    <item package="com.coloros.operationManual" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.operationManual/com.coloros.operationManual.MainOperationManualActivity" package="com.coloros.operationManual" rateId="3-1-2-3" />  
+    <item activity="com.coloros.operationManual/com.coloros.operationManual.manualandservice.activity.MainActivity" package="com.coloros.operationManual" rateId="3-1-2-3" />
+    <item package="com.coloros.findmyphone" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.findmyphone/com.oplus.findmyphone.activity.FindPhoneMainActivity" package="com.coloros.findmyphone" rateId="3-1-2-3" />  
+    <item package="com.coloros.childrenspace" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.childrenspace/com.coloros.childrenspace.view.ChildrenSettings" package="com.coloros.childrenspace" rateId="3-1-2-3" />  
+    <item package="com.oplus.consumerIRApp" rateId="3-1-2-3" /> 
+    <item package="com.heytap.health" rateId="3-1-2-3" /> 
+    <item package="com.oplus.screenshot" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.screenshot/.setting.ScreenshotSettingActivity" package="com.oplus.screenshot" rateId="3-1-2-3" />  
+    <item package="com.coloros.bootreg" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.bootreg/com.coloros.bootreg.security.activity.StatementPage" package="com.coloros.bootreg" rateId="3-1-2-3" />
+    <item activity="com.coloros.bootreg/com.coloros.bootreg.security.activity.StatementPage" package="com.coloros.bootreg" rateId="3-1-2-3" />
+    <item activity="com.coloros.bootreg/com.coloros.bootreg.security.activity.StatementPage" package="com.coloros.bootreg" rateId="3-1-2-3" />
+    <item package="com.nearme.instant.platform" rateId="3-1-2-3" /> 
+    <item package="com.heytap.pictorial" rateId="3-1-2-3" /> 
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.ui.SettingActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />  
+    <item activity="com.heytap.pictorial/.wallpaper.WallpaperFromSettingActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />  
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.slidepicture.interest.interest_area.InterestAreaActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.ui.NotUpdateDetectionActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.childrenmode.ChildrenModeSettingsActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.ui.account.AccountSettingActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.ui.about.AboutMeActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item activity="com.heytap.pictorial/com.heytap.pictorial.wallpaper.WallPaperActivity" package="com.heytap.pictorial" rateId="3-1-2-3" />
+    <item package="com.coloros.video" rateId="3-1-2-3" /> 
+    <item package="com.coloros.codebook" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.codebook/com.coloros.codebook.ui.CodeSettingActivity" package="com.coloros.codebook" rateId="3-1-2-3" />  
+    <item activity="com.coloros.codebook/com.coloros.codebook.ui.CodeMainActivity" package="com.coloros.codebook" rateId="3-1-2-3" />  
+    <item package="com.coloros.sharescreen" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.ShareScreenMainActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />  
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.UserGuideActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.PrivacyFragmentActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.CollectInfoListActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.AboutActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.OpenSourceActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item activity="com.coloros.sharescreen/com.coloros.sharescreen.view.ShareScreenFeedbackActivity" package="com.coloros.sharescreen" rateId="3-1-2-3" />
+    <item package="com.oplus.screenrecorder" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.screenrecorder/com.oplus.screenrecorder.setting.RecordSettingsActivity" package="com.oplus.screenrecorder" rateId="3-1-2-3" />  
+    <item activity="com.oplus.screenrecorder/com.oplus.screenrecorder.setting.RecordSettingsActivity" package="com.oplus.screenrecorder" rateId="3-1-2-3" />  
+    <item package="com.heytap.quicksearchbox" rateId="3-1-2-3" /> 
+    <item package="com.oplus.linker" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.linker/com.oplus.linker.synergy.settingscast.ConnectTVSettingsActivity" package="com.oplus.linker" rateId="3-1-2-3" />  
+    <item package="com.oplus.gesture" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.gesture/com.oplus.gesture.guide.GestureMainActivity" package="com.oplus.gesture" rateId="3-1-2-3" />  
+    <item activity="com.oplus.gesture/.intelligentperception.IntelligentPerceptionActivity" package="com.oplus.gesture" rateId="3-1-2-3" />  
+    <item activity="com.oplus.gesture/com.oplus.gesture.custom.AllScreenOffGestureActivity" package="com.oplus.gesture" rateId="3-1-2-3" />
+    <item package="com.android.documentsui" rateId="3-1-2-3" /> 
+    <item package="com.coloros.filemanager" rateId="3-1-2-3" /> 
+    <item package="com.oplus.member" rateId="3-1-2-3" /> 
+    <item package="com.oplus.melody" rateId="3-1-2-3" /> 
+    <item package="com.heytap.tas" rateId="3-1-2-3" /> 
+    <item package="com.coloros.ocrscanner" rateId="1-1-2-3" /> 
+    <item package="com.coloros.colordirectservice" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.colordirectservice/com.coloros.direct.setting.ColorDirectSettingActivity" package="com.coloros.colordirectservice" rateId="3-1-2-3" />  
+    <item activity="com.coloros.colordirectservice/com.coloros.direct.setting.PrivacyPolicyActivity" package="com.coloros.colordirectservice" rateId="3-1-2-3" />  
+    <item package="com.coloros.shortcuts" rateId="3-1-2-3" /> 
+    <item package="com.coloros.sceneservice" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.sceneservice/com.coloros.sceneservice.settings.SettingsActivity" package="com.coloros.sceneservice" rateId="3-1-2-3" />  
+    <item activity="com.coloros.sceneservice/com.coloros.sceneservice.settings.personal.PersonalInformationActivity" package="com.coloros.sceneservice" rateId="3-1-2-3" />  
+    <item package="com.oplus.aiunit" rateId="3-1-2-3" />
+    <item activity="com.oplus.aiunit/com.oplus.aiunit.settings.AIUnitSettingsActivity" package="com.oplus.aiunit" rateId="3-1-2-3" />  
+    <item package="com.android.systemui" rateId="3-1-2-3" /> 
+    <item activity="com.android.systemui/com.oplus.systemui.qs.personality.QSPersonalityActivity" package="com.android.systemui" rateId="3-1-2-3" />
+    <item activity="com.android.systemui/com.oplus.systemui.aod.surface.AodSurfaceHomeActivity" package="com.android.systemui" rateId="3-1-2-3" />
+    <item activity="com.android.systemui/com.oplusos.systemui.keyguard.fpquicklaunch.setting.activity.FpQLSettingsActivity" package="com.android.systemui" rateId="3-1-2-3" />
+    <item package="com.oplus.exserviceui" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.exserviceui/com.oplusos.zoomwindow.setting.ZoomSettingActivity" disableViewOverride="true" package="com.oplus.exserviceui" rateId="3-1-2-3" />  
+    <item activity="com.oplus.exserviceui/com.oplusos.zoomwindow.setting.ZoomSettingGuideActivity" package="com.oplus.exserviceui" rateId="3-1-2-3" />  
+    <item package="com.coloros.scenemode" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.scenemode/com.coloros.scenemode.view.SimpleModeAnimActivity" package="com.coloros.scenemode" rateId="3-1-2-3" />  
+    <item package="com.android.printspooler" rateId="3-1-2-3" /> 
+    <item activity="com.android.printspooler/com.android.printspooler.ui.settings.SettingsEntranceActivity" package="com.android.printspooler" rateId="3-1-2-3" />  
+    <item package="com.oplus.notificationmanager" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.notificationmanager/.NotificationCenterActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />  
+    <item activity="com.oplus.notificationmanager/com.oplus.notificationmanager.SpecialLightSettingsActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.notificationmanager.AppNotificationSettingsActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.zenmode.zenmodesettings.ZenModeSettingsActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.zenmode.zenmodeautorules.showrules.ZenModeAutomaticRulesActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.zenmode.zenmodeapp.ZenModeAppActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.notificationmanager.MoreSettingActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.notificationmanager.notificationhistory.history.NotificationHistoryActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item activity="com.oplus.notificationmanager/com.oplus.notificationmanager.AppNotificationSettingsActivity" package="com.oplus.notificationmanager" rateId="3-1-2-3" />
+    <item package="com.android.permissioncontroller" rateId="3-1-2-3" /> 
+    <item activity="com.android.permissioncontroller/com.oplusos.permissioncontroller.role.ui.DefaultAppListActivity" package="com.android.permissioncontroller" rateId="3-1-2-3" />
+    <item package="com.oplus.multiapp" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.multiapp/com.oplus.multiapp.ui.entry.ActivityMainActivity" package="com.oplus.multiapp" rateId="3-1-2-3" />  
+    <item activity="com.oplus.multiapp/com.oplus.multiapp.ui.restore.ActivityRestoreActivity" package="com.oplus.multiapp" rateId="3-1-2-3" />
+    <item package="com.coloros.digitalwellbeing" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.digitalwellbeing/com.coloros.digitalwellbeing.module.main.view.MainActivity" package="com.coloros.digitalwellbeing" rateId="3-1-2-3" />  
+    <item package="com.oplus.apprecover" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.apprecover/com.oplus.apprecover.activity.AppRecoverActivity" package="com.oplus.apprecover" rateId="3-1-2-3" />  
+    <item activity="com.oplus.apprecover/com.oplus.apprecover.view.AppRecoverActivity" package="com.oplus.apprecover" rateId="3-1-2-3" />
+    <item package="com.oplus.trafficmonitor" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.trafficmonitor/com.android.settings.Settings$DataUsageSummaryActivity" package="com.oplus.trafficmonitor" rateId="3-1-2-3" />
+    <item activity="com.oplus.trafficmonitor/com.oplus.trafficmonitor.view.OplusSubSettings" package="com.oplus.trafficmonitor" rateId="3-1-2-3" />
+    <item activity="com.oplus.trafficmonitor/com.oplus.trafficmonitor.view.networkcontrol.NetworkControlActivity" package="com.oplus.trafficmonitor" rateId="3-1-2-3" />
+    <item activity="com.oplus.trafficmonitor/com.android.settings.datausage.AppDataUsageActivity" package="com.oplus.trafficmonitor" rateId="3-1-2-3" />
+    <item package="com.oplus.sos" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.sos/com.oplus.sos.ui.SOSHelperSettingActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.earthquake.ui.NaturalDisastersSettingsActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.sos.ui.ConsulateProtectionActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.sos.ui.EmergencyContactsSettingActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.sos.firstaidinformation.FirstAidInformationDisplayActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.sos.ui.SOSEmergencyCallSettingActivity" package="com.oplus.sos" rateId="3-1-2-3" />  
+    <item activity="com.oplus.sos/com.oplus.sos.ui.about.SOSAboutActivity" package="com.oplus.sos" rateId="3-1-2-3" />
+    <item package="com.oplus.blacklistapp" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.blacklistapp/com.oplus.blacklistapp.activities.PseudoBaseStationActivity" package="com.oplus.blacklistapp" rateId="3-1-2-3" />  
+    <item package="com.android.server.telecom" rateId="3-1-2-3" /> 
+    <item package="com.android.mms" rateId="3-1-2-3" /> 
+    <item package="com.coloros.floatassistant" rateId="3-1-2-3" /> 
+    <item activity="com.coloros.floatassistant/.settings.FloatingActionSettingsActivity" package="com.coloros.floatassistant" rateId="3-1-2-3" />  
+    <item package="com.oplus.appdetail" rateId="1-1-2-3" /> 
+    <item package="com.oplus.games" rateId="3-1-2-3" /> 
+    <item package="com.oplus.account" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.oplus.safecenter" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.safecenter/com.oplus.safecenter.privacy.view.AppProtectListActivity" package="com.oplus.safecenter" rateId="3-1-2-3" />  
+    <item activity="com.sohu.inputmethod.sogouoem/com.sogou.inputmethod.oem.oppo.pure.SysPureActivty" package="com.sohu.inputmethod.sogouoem" rateId="3-0-0-3" />  
+    <item activity="com.oplus.safecenter/com.oplus.safecenter.startupapp.view.StartupAppListActivity" package="com.oplus.safecenter" rateId="3-1-2-3" />  
+    <item activity="com.oplus.safecenter/com.oplus.safecenter.startupapp.view.AssociateStartActivity" package="com.oplus.safecenter" rateId="3-1-2-3" />  
+    <item package="com.oplus.battery" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerConsumptionActivity" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerRankingActivity" disableViewOverride="true" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.BatteryHealthActivity" disableViewOverride="true" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.SmartChargeActivity" disableViewOverride="true" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerInspectActivity" disableViewOverride="true" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerSaveActivity" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.IntellPowerSaveScence" package="com.oplus.battery" rateId="3-1-2-3" />  
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerControlActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.startupapp.view.StartupAppListActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.startupapp.view.PreventRecordActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.startupapp.view.AssociateStartActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.startupapp.view.PreventRecordActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerConsumptionOptimizationActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.deepsleep.SuperSleepModeActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item activity="com.oplus.battery/com.oplus.powermanager.fuelgaue.PowerUsageModelActivity" package="com.oplus.battery" rateId="3-1-2-3" />
+    <item package="com.android.incallui" rateId="1-1-2-1" /> 
+    <item activity="com.android.incallui/.oppo.share.OppoSelectPhoneAccountDialog" disableViewOverride="true" package="com.android.incallui" rateId="3-1-2-3" />  
+    <item package="com.oplus.logkit" rateId="3-1-2-3" /> 
+    <item package="com.oplus.eyeprotect" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.eyeprotect/com.oplus.eyeprotect.ui.activity.ProtectEyesActivity" package="com.oplus.eyeprotect" rateId="3-1-2-3" />  
+    <item package="com.oplus.ota" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.ota/com.oplus.otaui.activity.EntryActivity" package="com.oplus.ota" rateId="3-1-2-3" />  
+    <item activity="com.oplus.ota/com.oplus.otaui.activity.OtaFeatureSelectActivity" package="com.oplus.ota" rateId="3-1-2-3" />  
+    <item package="com.heytap.themestore" rateId="1-1-2-3" /> 
+    <item activity="com.heytap.themestore/com.nearme.themespace.activities.SinglePageCardActivity" package="com.heytap.themestore" rateId="3-1-2-3" />  
+    <item activity="com.heytap.themestore/com.nearme.themespace.activities.LocalProductListActivity" package="com.heytap.themestore" rateId="3-1-2-3" />  
+    <item activity="com.heytap.themestore/com.nearme.themespace.activities.SettingIndividuationActivity" package="com.heytap.themestore" rateId="3-1-2-3" />
+    <item package="com.oppo.store" rateId="1-1-2-3" /> 
+    <item package="com.realme.store" rateId="1-1-2-3" /> 
+    <item package="com.realmecomm.app" rateId="1-1-2-1" />  
+    <item package="com.realme.storecn" rateId="1-1-2-3" /> 
+    <item package="com.oneplus.brickmode" rateId="1-1-2-3" /> 
+    <item package="com.heytap.market" rateId="1-1-2-3" /> 
+    <item activity="com.heytap.market/com.heytap.cdo.client.cards.page.external.recapp.ExternalRecommendAppActivity" package="com.heytap.market" rateId="3-1-2-3" />
+    <item package="com.coloros.phonemanager" rateId="1-1-2-3" /> 
+    <item package="com.oplus.play" rateId="1-1-2-3" /> 
+    <item package="com.nearme.gamecenter" rateId="1-1-2-3" /> 
+    <item package="com.heytap.cloud" rateId="1-1-2-3" /> 
+    <item activity="com.heytap.cloud/com.heytap.cloud.home.ui.CloudSettingsActivity2" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.backup.activity.BackUpAllActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.GallerySettingActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.NoteSettingActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.RecordSettingActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.PrivateSafeSettingActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.clouddisk.activity.CloudDiskHomeActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.CloudRestoreActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.activity.ContactHistoryActivity" package="com.heytap.cloud" rateId="3-1-2-3" />  
+    <item activity="com.heytap.cloud/com.heytap.cloud.homepage.activity.PrivateSafeSettingActivity" package="com.heytap.cloud" rateId="3-1-2-3" />
+    <item package="com.oplus.securitypermission" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.securitypermission/com.oplusos.securitypermission.permission.PermissionGroupsActivity" package="com.oplus.securitypermission" rateId="3-1-2-3" />
+    <item activity="com.oplus.securitypermission/com.oplusos.securitypermission.permissionrecord.page.AppBehaviorDetailActivity" package="com.oplus.securitypermission" rateId="3-1-2-3" />
+
+    
+    <item package="com.ludashi.benchmark" rateId="3-1-2-3" /> 
+    <item package="com.ludashi.benchmark2" rateId="3-1-2-3" /> 
+    <item package="com.antutu.ABenchMark" rateId="3-1-2-3" /> 
+    <item package="com.futuremark.pcmark.android.benchmark" rateId="3-1-2-3" /> 
+    <item package="com.coolapk.market" rateId="1-1-2-3" disableViewOverride="true"/> 
+
+
+    
+    <item package="com.lemon.lv" rateId="2-1-2-1" /> 
+    <item package="com.mt.mtxx.mtxx" rateId="2-1-2-1" /> 
+    <item package="com.meitu.meiyancamera" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.wbxm.icartoon" rateId="1-1-2-1" /> 
+    <item package="com.naver.linewebtoon.cn" rateId="1-1-2-1" /> 
+    <item package="com.weibo.comic" rateId="1-1-2-1" /> 
+    <item package="com.kuaikan.comic" rateId="1-1-2-1" /> 
+    <item package="com.comic.manhuatai" rateId="1-1-2-1" /> 
+    <item package="com.qq.ac.android" rateId="1-1-2-1" /> 
+    <item package="com.bilibili.comic" rateId="1-1-2-1" /> 
+    <item package="com.picacomic.fregata" rateId="1-1-2-1" /> 
+    <item package="tv.acfun.lite.video" rateId="1-1-2-1" /> 
+    <item package="com.miandan.live" rateId="1-1-2-1" /> 
+    <item package="com.banciyuan.bcywebview" rateId="1-1-2-1" /> 
+    <item package="com.tencent.podoteng" rateId="1-1-2-1" /> 
+    <item package="com.mallestudio.gugu.app" rateId="1-1-2-1" /> 
+
+    
+    <item package="com.baidu.searchbox" rateId="1-1-2-3" /> 
+    <item activity="com.baidu.searchbox/.video.feedflow.tab.VideoTabActivity" package="com.baidu.searchbox" rateId="1-1-2-3" animatingDelayTime="450" disableViewOverride="true"/>  
+    <item package="com.UCMobile" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.mtt" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="org.mozilla.firefox" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.baidu.searchbox.lite" rateId="1-1-2-3" /> 
+    <item package="com.opera.browser" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.heytap.browser" rateId="1-1-2-3" /> 
+    <item activity="com.heytap.browser/com.heytap.browser.settings.component.BrowserPreferenceActivity" package="com.heytap.browser" rateId="3-1-2-3" />
+    <item package="com.quark.browser" rateId="1-1-2-3" /> 
+    <item package="com.cat.readall" rateId="1-1-2-3" /> 
+    <item package="com.android.quicksearchbox" rateId="1-1-2-3" /> 
+    <item package="com.baidu.searchbox.tomas" rateId="1-1-2-3" /> 
+    <item package="com.ucmobile.lite" rateId="1-1-2-3" /> 
+    <item package="com.qihoo.browser" rateId="1-1-2-3" /> 
+    <item package="sogou.mobile.explorer" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.jiaohua_browser" rateId="1-1-2-3" /> 
+    <item package="pi.browser" rateId="1-1-2-3" /> 
+    <item package="com.sogou.activity.src" rateId="1-1-2-3" /> 
+
+
+    
+    <item package="com.finshell.wallet" rateId="1-1-2-3" /> 
+    <item package="com.android.bankabc" rateId="1-1-2-3" /> 
+    <item package="com.chinamworld.main" rateId="1-1-2-3" /> 
+    <item package="com.nearme.atlas" rateId="1-1-2-3" /> 
+    <item package="com.icbc" rateId="1-1-2-3" /> 
+    <item package="com.yitong.mbank.psbc" rateId="1-1-2-3" /> 
+    <item package="com.chinamworld.bocmbci" rateId="1-1-2-3" /> 
+    <item package="cmb.pb" rateId="1-1-2-3" /> 
+    <item package="com.jd.jrapp" rateId="1-1-2-3" /> 
+    <item package="com.pingan.paces.ccms" rateId="1-1-2-3" /> 
+    <item package="com.pingan.lifeinsurance" rateId="1-1-2-3" /> 
+    <item package="com.bankcomm.maidanba" rateId="1-1-2-3" /> 
+    <item package="com.icbc.im" rateId="1-1-2-3" /> 
+    <item package="com.bankcomm.Bankcomm" rateId="1-1-2-3" /> 
+    <item package="com.qihoo.loan" rateId="1-1-2-3" /> 
+    <item package="com.eg.android.AlipayGphone" rateId="1-1-2-1" disableViewOverride="true"/> 
+    <item activity="com.eg.android.AlipayGphone/com.alipay.mobile.nebulax.integration.mpaas.activity.NebulaActivity$Main" package="com.eg.android.AlipayGphone" rateId="3-1-2-3" />
+    <item package="com.chinalife.ebz" rateId="1-1-2-3" /> 
+    <item package="com.citiccard.mobilebank" rateId="1-1-2-3" /> 
+    <item package="com.fenqile.fenqile" rateId="1-1-2-3" /> 
+    <item package="com.nxy.sc" rateId="1-1-2-3" /> 
+    <item package="csii.com.qny" rateId="1-1-2-3" /> 
+    <item package="com.cib.cibmb" rateId="1-1-2-3" /> 
+    <item package="com.ecitic.bank.mobile" rateId="1-1-2-3" /> 
+    <item package="cn.com.spdb.mobilebank.per" rateId="1-1-2-3" /> 
+    <item package="com.cs_credit_bank" rateId="1-1-2-3" /> 
+    <item package="com.yitong.mbank" rateId="1-1-2-3" /> 
+    <item package="com.cn.froad.mobileplatform" rateId="1-1-2-3" /> 
+    <item package="cn.com.cmbc.newmbank" rateId="1-1-2-3" /> 
+    <item package="com.ppdai.loan" rateId="1-1-2-3" /> 
+    <item package="com.msxf.ayh" rateId="1-1-2-3" /> 
+    <item package="com.eastmoney.android.berlin" rateId="1-1-2-3" /> 
+    <item package="com.blockchainvault" rateId="1-1-2-3" /> 
+    <item package="com.spdbccc.app" rateId="1-1-2-3" /> 
+    <item package="com.cebbank.mobile.cemb" rateId="1-1-2-3" /> 
+    <item package="cn.gov.pbc.dcep" rateId="1-1-2-3" /> 
+    <item package="com.shuhekeji" rateId="1-1-2-3" /> 
+    <item package="com.cgbchina.xpt" rateId="1-1-2-3" /> 
+    <item package="com.duxiaoman.wallet" rateId="1-1-2-3" /> 
+    <item package="com.lphtsccft" rateId="1-1-2-3" /> 
+    <item package="com.zl.fqbao" rateId="1-1-2-3" /> 
+    <item package="com.duxiaoman.umoney" rateId="1-1-2-3" /> 
+    <item package="com.zaxd.loan" rateId="1-1-2-3" /> 
+    <item package="com.earn.zysx" rateId="1-1-2-3" /> 
+    <item package="com.hcc.app" rateId="1-1-2-3" /> 
+    <item package="com.eastmoney.android.fund" rateId="1-1-2-3" /> 
+    <item package="com.paem" rateId="1-1-2-3" /> 
+    <item package="cn.jsb.china" rateId="1-1-2-3" /> 
+    <item package="com.samoyed.credit" rateId="1-1-2-3" /> 
+    <item package="com.icbc.elife" rateId="1-1-2-3" /> 
+    <item package="com.yitong.mbank.psbc.creditcard" rateId="1-1-2-3" /> 
+    <item package="com.unionpay.tsmservice" rateId="1-1-2-3" /> 
+    <item package="com.renrendai.haohuan" rateId="1-1-2-3" /> 
+    <item package="com.csii.zybk.ui" rateId="1-1-2-3" /> 
+    <item package="com.mybank.android.phone" rateId="1-1-2-3" /> 
+    <item package="com.icbc.biz.elife" rateId="1-1-2-3" /> 
+    <item package="com.hxb.mobile.client" rateId="1-1-2-3" /> 
+
+
+    
+    <item package="com.baidu.homework" rateId="1-1-2-3" /> 
+    <item package="com.jzzs.ParentsHelper" rateId="1-1-2-3" /> 
+    <item package="cn.xuexi.android" rateId="1-1-2-3" /> 
+    <item package="com.kuaiduizuoye.scan" rateId="1-1-2-3" /> 
+    <item package="com.duoduo.child.story" rateId="1-1-2-3" /> 
+    <item package="com.handsgo.jiakao.android" rateId="1-1-2-3" /> 
+    <item package="com.tal.tiku" rateId="1-1-2-3" /> 
+    <item package="com.fenbi.android.solar" rateId="1-1-2-3" /> 
+    <item package="com.A17zuoye.mobile.homework" rateId="1-1-2-3" /> 
+    <item package="com.jxedt" rateId="1-1-2-3" /> 
+    <item package="com.chaoxing.mobile" rateId="1-1-2-3" /> 
+    <item package="com.fenbi.android.leo" rateId="1-1-2-3" /> 
+    <item package="com.youdao.dict" rateId="1-1-2-3" /> 
+    <item package="com.mampod.ergedd" rateId="1-1-2-3" /> 
+    <item package="com.coloros.translate" rateId="1-1-2-3" /> 
+    <item package="com.pcncn.jj" rateId="1-1-2-3" /> 
+    <item package="com.hicorenational.antifraud" rateId="1-1-2-3" /> 
+    <item package="com.sinyee.babybus.recommendapp" rateId="1-1-2-3" /> 
+    <item package="com.zuoyebang.knowledge" rateId="1-1-2-3" /> 
+    <item package="com.iflytek.elpmobile.smartlearning" rateId="1-1-2-3" /> 
+    <item package="com.sinyee.babybus.world" rateId="1-1-2-3" /> 
+    <item package="com.lion.market" rateId="1-1-2-3" /> 
+    <item package="com.dw.btime" rateId="1-1-2-3" /> 
+    <item package="com.jiongji.andriod.card" rateId="1-1-2-3" /> 
+    <item package="com.ubestkid.beilehu.android" rateId="1-1-2-3" /> 
+    <item package="com.hongen.app.word" rateId="1-1-2-3" /> 
+    <item package="com.idiom.king" rateId="1-1-2-3" /> 
+    <item package="com.babytree.apps.pregnancy" rateId="1-1-2-3" /> 
+    <item package="com.yunxiao.haofenshu" rateId="1-1-2-3" /> 
+    <item package="com.yangcong345.android.phone" rateId="1-1-2-3" /> 
+    <item package="cc.septnet.student" rateId="1-1-2-3" /> 
+    <item package="com.xiaobanlong.main" rateId="1-1-2-3" /> 
+    <item package="com.wisedu.cpdaily" rateId="1-1-2-3" /> 
+    <item package="com.mistong.ewt360" rateId="1-1-2-3" /> 
+    <item package="com.guzhen.xiucai" rateId="1-1-2-3" /> 
+    <item package="com.zybang.parent" rateId="1-1-2-3" /> 
+    <item package="com.kongming.android.h.parent" rateId="1-1-2-3" /> 
+    <item package="org.xinkb.blackboard.android" rateId="1-1-2-3" /> 
+    <item package="zwzt.fangqiu.edu.com.zwzt" rateId="1-1-2-3" /> 
+    <item package="com.tencent.edu" rateId="1-1-2-3" /> 
+    <item package="com.eebbk.parentalcontrol" rateId="1-1-2-3" /> 
+    <item package="com.yiban.app" rateId="1-1-2-3" /> 
+    <item package="com.xuexiaoyi.xxy" rateId="1-1-2-3" /> 
+    <item package="com.yunxiao.hfs4p" rateId="1-1-2-3" /> 
+    <item package="cn.com.langeasy.LangEasyLexis" rateId="1-1-2-3" /> 
+    <item package="com.xtuone.android.syllabus" rateId="1-1-2-3" /> 
+    <item package="cn.mama.pregnant" rateId="1-1-2-3" /> 
+    <item package="com.yiqizuoye.jzt" rateId="1-1-2-3" /> 
+    <item package="com.able.wisdomtree" rateId="1-1-2-3" /> 
+    <item package="com.kme.android.yddd" rateId="1-1-2-3" /> 
+    <item package="com.iflytek.elpmobile.student" rateId="1-1-2-3" /> 
+    <item package="com.fenbi.android.zenglish" rateId="1-1-2-3" /> 
+    <item package="com.wanxiangsiwei.beisu" rateId="1-1-2-3" /> 
+    <item package="com.jingcai.apps.qualitydev" rateId="1-1-2-3" /> 
+    <item package="com.minitech.miniaixue" rateId="1-1-2-3" /> 
+    <item package="com.fenbi.android.servant" rateId="1-1-2-3" /> 
+    <item package="com.netease.edu.ucmooc" rateId="1-1-2-3" /> 
+    <item package="com.guzhen.idiom.pocket.a002" rateId="1-1-2-3" /> 
+    <item package="com.ishowedu.peiyin" rateId="1-1-2-3" /> 
+    <item package="com.yuantiku.tutor" rateId="1-1-2-3" /> 
+    <item package="com.yaerxing.fkst" rateId="1-1-2-3" /> 
+    <item package="com.newcapec.mobile.ncp" rateId="1-1-2-3" /> 
+    <item package="com.mampod.song" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.tmri.app.main" rateId="2-1-2-1" /> 
+    <item package="com.MobileTicket" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.oppo.community" rateId="1-1-2-3" /> 
+    <item package="com.zhihu.android" rateId="1-1-2-3" /> 
+    <item package="com.netease.gl" rateId="1-1-2-3" /> 
+    <item package="com.lofter.android" rateId="1-1-2-3" /> 
+    <item package="ctrip.android.view" rateId="1-1-2-3" /> 
+    <item package="com.Qunar" rateId="1-1-2-3" /> 
+    <item package="com.taptap" rateId="1-1-2-3" /> 
+    <item package="com.yuncheapp.android.pearl" rateId="1-1-2-3" /> 
+    <item package="com.cmic.mmnes" rateId="1-1-2-3" /> 
+    <item package="com.baidu.tieba" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="cn.xiaochuankeji.tieba" rateId="1-1-2-3" /> 
+    <item package="com.sup.android.superb" rateId="1-1-2-3" /> 
+    <item package="com.taobao.trip" rateId="1-1-2-3" /> 
+    <item package="com.skin.v10wj" rateId="1-1-2-3" /> 
+    <item package="com.lanjingren.ivwen" rateId="1-1-2-3" /> 
+    <item package="com.qzone" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.qingqi.dianbo" rateId="1-1-2-3" /> 
+    <item package="com.douban.frodo" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tongcheng.android" rateId="1-1-2-3" /> 
+    <item package="com.yicong.ants" rateId="1-1-2-3" /> 
+    <item package="com.tencent.tgclub" rateId="1-1-2-3" /> 
+    <item package="com.ss.android.homed" rateId="1-1-2-3" /> 
+    <item package="net.whty.app.eyu" rateId="1-1-2-3" /> 
+    <item package="com.daofeng.zuhaowan" rateId="1-1-2-3" /> 
+    <item package="cn.xiaochuankeji.zuiyouLite" rateId="1-1-2-3" /> 
+    <item package="com.max.xiaoheihe" rateId="1-1-2-3" /> 
+    <item package="com.duitang.main" rateId="1-1-2-3" /> 
+
+
+    
+    <item package="com.taobao.taobao" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.achievo.vipshop" rateId="1-1-2-3" /> 
+    <item package="com.taobao.idlefish" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tmall.wireless" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.mogujie" rateId="1-1-2-3" /> 
+    <item package="com.alibaba.wireless" rateId="1-1-2-3" /> 
+    <item package="com.mengtuiapp.mall" rateId="1-1-2-3" /> 
+    <item package="com.wuba.zhuanzhuan" rateId="1-1-2-3" /> 
+    <item package="com.husor.beidian" rateId="1-1-2-3" /> 
+    <item package="com.jf.lkrj" rateId="1-1-2-3" /> 
+    <item package="com.jingdong.app.mall" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.suning.mobile.ebuy" rateId="1-1-2-3" /> 
+    <item package="com.shizhuang.duapp" rateId="1-1-2-3" /> 
+    <item package="com.taobao.live" rateId="1-1-2-3" /> 
+    <item package="com.xunmeng.pinduoduo" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.taobao.litetao" rateId="1-1-2-3" /> 
+    <item package="com.sankuai.youxuan" rateId="1-1-2-3" /> 
+    <item package="com.jd.jdlite" rateId="1-1-2-3" /> 
+    <item package="com.hupu.shihuo" rateId="1-1-2-3" /> 
+    <item package="com.jd.pingou" rateId="1-1-2-3" /> 
+    <item package="com.xunmeng.merchant" rateId="1-1-2-3" /> 
+    <item package="com.wm.dmall" rateId="1-1-2-3" /> 
+    <item package="com.black.unique" rateId="1-1-2-3" /> 
+    <item package="com.cib.xyk" rateId="1-1-2-3" /> 
+    <item package="com.jym.mall" rateId="1-1-2-3" /> 
+    <item package="com.koudai.weidian.buyer" rateId="1-1-2-3" /> 
+    <item package="com.wudaokou.hippo" rateId="1-1-2-3" /> 
+    <item package="com.jingdong.pdj" rateId="1-1-2-3" /> 
+    <item package="com.taobao.etao" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.yaya.zone" rateId="1-1-2-3" /> 
+    <item package="com.taobao.qianniu" rateId="1-1-2-3" /> 
+    <item package="com.dangdang.buy2" rateId="1-1-2-3" /> 
+    <item package="com.youxiang.soyoungapp" rateId="1-1-2-3" /> 
+    <item package="com.water" rateId="1-1-2-3" /> 
+    <item package="com.kaola" rateId="1-1-2-3" /> 
+    <item package="com.pupumall.customer" rateId="1-1-2-3" /> 
+    <item package="com.aiyouni.sdd73" rateId="1-1-2-3" /> 
+    <item package="com.jiankecom.jiankemall" rateId="1-1-2-3" /> 
+    <item package="com.imaginer.yunji" rateId="1-1-2-3" /> 
+    <item package="com.xiaoshijie.sqb" rateId="1-1-2-3" /> 
+
+
+    
+    <item package="com.sankuai.meituan" rateId="1-1-2-1" /> 
+    <item activity="com.sankuai.meituan/com.meituan.android.hotel.search.HotelSearchResultActivity" package="com.sankuai.meituan" rateId="1-1-2-1" /> 
+    <item package="com.wuba" rateId="1-1-2-3" /> 
+    <item package="me.ele" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.pingan.carowner" rateId="1-1-2-3" /> 
+    <item package="com.yiche.autoeasy" rateId="1-1-2-3" /> 
+    <item package="com.dianping.v1" rateId="1-1-2-3" /> 
+    <item package="com.cubic.autohome" rateId="1-1-2-3" /> 
+    <item package="com.anjuke.android.app" rateId="1-1-2-3" /> 
+    <item package="com.wuba.town.client" rateId="1-1-2-3" /> 
+    <item package="com.ss.android.auto" rateId="1-1-2-3" /> 
+    <item package="com.hpbr.bosszhipin" rateId="1-1-2-3" /> 
+    <item package="com.yiche.price" rateId="1-1-2-3" /> 
+    <item package="com.lianjia.beike" rateId="1-1-2-3" /> 
+    <item package="com.hexin.plat.android" rateId="1-1-2-3" /> 
+    <item package="com.homelink.android" rateId="1-1-2-3" /> 
+    <item package="com.cainiao.wireless" rateId="1-1-2-3" /> 
+    <item package="com.ganji.android" rateId="1-1-2-3" /> 
+    <item package="com.yek.android.kfc.activitys" rateId="1-1-2-3" /> 
+    <item package="com.f100.android" rateId="1-1-2-3" /> 
+    <item package="com.zhaopin.social" rateId="1-1-2-3" /> 
+    <item package="com.sf.activity" rateId="1-1-2-3" /> 
+    <item package="com.sankuai.meituan.meituanwaimaibusiness" rateId="1-1-2-3" /> 
+    <item package="com.sankuai.meituan.takeoutnew" rateId="1-1-2-3" /> 
+    <item package="cn.TuHu.android" rateId="1-1-2-3" /> 
+    <item package="com.mcdonalds.gma.cn" rateId="1-1-2-3" /> 
+    <item package="com.job.android" rateId="1-1-2-3" /> 
+    <item package="me.ele.napos" rateId="1-1-2-3" /> 
+    <item package="com.taobao.movie.android" rateId="1-1-2-3" /> 
+    <item package="com.sankuai.meituan.merchant" rateId="1-1-2-3" /> 
+    <item package="com.sankuai.movie" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.alibaba.android.rimet" rateId="1-1-2-3" /> 
+    <item package="cn.wps.moffice_eng" rateId="1-1-2-3" /> 
+    <item package="com.tencent.androidqqmail" rateId="1-1-2-3" /> 
+    <item package="com.tencent.wework" rateId="1-1-2-3" /> 
+    <item package="com.android.email" rateId="1-1-2-3" /> 
+    <item package="com.netease.mail" rateId="1-1-2-3" /> 
+    <item package="cn.cj.pe" rateId="1-1-2-3" /> 
+    <item package="com.chinamobile.mcloud" rateId="1-1-2-3" /> 
+    <item package="com.xunlei.downloadprovider" rateId="1-1-2-3" /> 
+    <item package="com.vivo.easyshare" rateId="1-1-2-3" /> 
+    <item package="com.glodon.drawingexplorer" rateId="1-1-2-3" /> 
+    <item package="com.intsig.camscanner" rateId="1-1-2-3" /> 
+    <item package="com.njh.biubiu" rateId="1-1-2-3" /> 
+    <item package="com.baidu.baidutranslate" rateId="1-1-2-3" /> 
+    <item package="com.dewmobile.kuaiya" rateId="1-1-2-3" /> 
+    <item package="com.huawei.hwid" rateId="1-1-2-3" /> 
+    <item package="com.gstarmc.android" rateId="1-1-2-3" /> 
+    <item package="cn.xender" rateId="1-1-2-3" /> 
+    <item package="com.sk.calculator" rateId="1-1-2-3" /> 
+    <item package="com.youdao.translator" rateId="1-1-2-3" /> 
+    <item package="com.netease.mobimail" rateId="1-1-2-3" /> 
+    <item package="com.zidongdianji" rateId="1-1-2-3" /> 
+    <item package="com.qq.qcloud" rateId="1-1-2-3" /> 
+    <item package="com.jincheng.supercaculator" rateId="1-1-2-3" /> 
+    <item package="com.nearme.ocloud" rateId="1-1-2-3" /> 
+    <item package="com.alicloud.databox" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.sogou.translator" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.google.android.youtube" rateId="1-1-2-3" /> 
+    <item package="com.kwai.bulldog" rateId="2-1-2-1" /> 
+    <item package="com.lemon.lvoverseas" rateId="2-1-2-1" /> 
+    <item package="premium.gotube.adblock.utube" rateId="2-1-2-1" /> 
+    <item package="com.bstar.intl" rateId="2-1-2-1" /> 
+    <item package="com.google.android.apps.youtube.kids" rateId="1-1-2-3" /> 
+    <item package="com.vidio.android" rateId="2-1-2-1" /> 
+    <item package="com.video.fun.app" rateId="2-1-2-1" /> 
+    <item package="com.vanced.android.youtube" rateId="2-1-2-1" /> 
+    <item package="com.tencent.qqlivei18n" rateId="2-1-2-1" /> 
+    <item package="com.vuclip.viu" rateId="2-1-2-1" /> 
+    <item package="com.stream.drakorindoawet" rateId="2-1-2-1" /> 
+    <item package="com.naver.linewebtoon" rateId="2-1-2-1" /> 
+    <item package="com.artem.scotepio" rateId="2-1-2-1" /> 
+    <item package="com.netflix.mediaclient" rateId="2-1-2-1" /> 
+    <item package="com.nemo.vidmate" rateId="2-1-2-1" /> 
+    <item package="com.fta.rctitv" rateId="2-1-2-1" /> 
+    <item package="com.canva.editor" rateId="2-1-2-1" /> 
+    <item package="com.alightcreative.motion" rateId="2-1-2-1" /> 
+    <item package="omegle.tv" rateId="2-1-2-1" /> 
+    <item package="com.snaptube.premium" rateId="2-1-2-1" /> 
+    <item package="com.camerasideas.instashot" rateId="2-1-2-1" /> 
+    <item package="com.downlood.sav.whmedia" rateId="2-1-2-1" /> 
+    <item package="tiktok.video.downloader.nowatermark.tiktokdownload" rateId="2-1-2-1" /> 
+    <item package="instagram.video.downloader.story.saver" rateId="2-1-2-1" /> 
+    <item package="com.google.android.videos" rateId="2-1-2-1" /> 
+    <item package="com.univision.prendetv" rateId="2-1-2-1" /> 
+    <item package="com.kwai.video" rateId="2-1-2-1" /> 
+    <item package="com.oppo.daydreamvideo" rateId="2-1-2-1" /> 
+    <item package="com.hbo.hbonow" rateId="2-1-2-1" /> 
+    <item package="com.disney.disneyplus" rateId="2-1-2-1" /> 
+    <item package="free.daily.tube.background" rateId="2-1-2-1" /> 
+    <item package="com.amazon.avod.thirdpartyclient" rateId="2-1-2-1" /> 
+    <item package="com.disney.starplus" rateId="2-1-2-1" /> 
+    <item package="com.biomes.vanced" rateId="2-1-2-1" /> 
+    <item package="free.tube.premium.advanced.tuber" rateId="2-1-2-1" /> 
+    <item package="com.roku.remote" rateId="2-1-2-1" /> 
+    <item package="com.tubitv" rateId="2-1-2-1" /> 
+    <item package="com.spanish.latinomobile" rateId="2-1-2-1" /> 
+    <item package="com.celltick.lockscreen" rateId="2-1-2-1" /> 
+    <item package="com.dvex.movp" rateId="2-1-2-1" /> 
+    <item package="com.dgdev.dgplayer" rateId="2-1-2-1" /> 
+    <item package="com.gohitv.hitv" rateId="2-1-2-1" /> 
+    <item package="com.cbs.ca" rateId="2-1-2-1" /> 
+    <item package="com.equirozdev.pelisplusmaxv2.app" rateId="2-1-2-1" /> 
+    <item package="com.mobile.telelatinomobile" rateId="2-1-2-1" /> 
+    <item package="com.dla.android" rateId="2-1-2-1" /> 
+    <item package="com.linecorp.b612.android" rateId="2-1-2-1" /> 
+    <item package="tv.pluto.android" rateId="2-1-2-1" /> 
+    <item package="com.formulaone.production" rateId="2-1-2-1" /> 
+    <item package="org.videolan.vlc" rateId="2-1-2-1" /> 
+    <item package="com.wemesh.android" rateId="2-1-2-1" /> 
+    <item package="com.viki.android" rateId="2-1-2-1" /> 
+    <item package="com.instantbits.cast.webvideo" rateId="2-1-2-1" /> 
+    <item package="com.cgm.ipelis" rateId="2-1-2-1" /> 
+    <item package="betflix.play" rateId="2-1-2-1" /> 
+    <item package="by.green.tuber" rateId="2-1-2-1" /> 
+    <item package="com.viu.phone" rateId="2-1-2-1" /> 
+    <item package="com.iqiyi.i18n" rateId="2-1-2-1" /> 
+    <item package="com.beci.thaitv3android" rateId="2-1-2-1" /> 
+    <item package="com.ais.mimo.AISPlay" rateId="2-1-2-1" /> 
+    <item package="com.mxtech.videoplayer.ad" rateId="2-1-2-1" /> 
+    <item package="com.gmm.onehd" rateId="2-1-2-1" /> 
+    <item package="io.adsfree.vanced" rateId="2-1-2-1" /> 
+    <item package="in.startv.hotstar" rateId="2-1-2-1" /> 
+    <item package="com.graymatrix.did" rateId="2-1-2-1" /> 
+    <item package="com.offshore.pikachu" rateId="2-1-2-1" /> 
+    <item package="com.jio.media.ondemand" rateId="2-1-2-1" /> 
+    <item package="com.jio.jioplay.tv" rateId="2-1-2-1" /> 
+    <item package="ahaflix.tv" rateId="2-1-2-1" /> 
+    <item package="com.pratilipi.mobile.android" rateId="2-1-2-1" /> 
+    <item package="in.mohalla.video" rateId="2-1-2-1" /> 
+    <item package="com.playit.videoplayer" rateId="2-1-2-1" /> 
+    <item package="tv.accedo.airtel.wynk" rateId="2-1-2-1" /> 
+    <item package="com.frontrow.vlog" rateId="2-1-2-1" /> 
+    <item package="com.mxtech.videoplayer.pro" rateId="2-1-2-1" /> 
+    <item package="com.bt.bms" rateId="2-1-2-1" /> 
+    <item package="video.player.videoplayer" rateId="2-1-2-1" /> 
+    <item package="com.ryzmedia.tatasky" rateId="2-1-2-1" /> 
+    <item package="com.young.simple.player" rateId="2-1-2-1" /> 
+    <item package="com.inverseai.video_converter" rateId="2-1-2-1" /> 
+    <item package="com.viewlift.hoichoi" rateId="2-1-2-1" /> 
+    <item package="com.ezviz" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.android.stk" rateId="2-1-2-1" /> 
+    <item package="com.google.android.gms" rateId="3-1-2-3" /> 
+    <item package="yuku.alkitab" rateId="2-1-2-1" /> 
+    <item package="org.sabda.alkitab" rateId="2-1-2-1" /> 
+    <item package="com.fintech.uangmudah" rateId="2-1-2-1" /> 
+    <item package="com.google.android.apps.restore" rateId="2-1-2-1" /> 
+    <item package="com.xsquarestudio.forcelte" rateId="2-1-2-1" /> 
+    <item package="com.alpha.lte4g" rateId="2-1-2-1" /> 
+    <item package="com.google.android.deskclock" rateId="3-1-2-3" /> 
+    <item package="com.google.android.calculator" rateId="3-1-2-3" /> 
+    <item package="com.google.android.apps.translate" rateId="3-1-2-3" /> 
+    <item package="com.google.android.calendar" rateId="3-1-2-3" /> 
+    <item package="com.android.vending" rateId="3-1-2-3" /> 
+    <item package="com.steren.home" rateId="2-1-2-1" /> 
+    <item package="com.handmark.expressweather" rateId="2-1-2-1" /> 
+    <item package="com.teamhub.playhub" rateId="2-1-2-1" /> 
+    <item package="mx.hsbc.hsbcmexico" rateId="2-1-2-1" /> 
+    <item package="me.bukovitz.noteit" rateId="2-1-2-1" /> 
+    <item package="com.amazon.dee.app" rateId="2-1-2-1" /> 
+    <item package="com.onesports.score" rateId="2-1-2-1" /> 
+    <item package="com.mobilefootie.wc2010" rateId="2-1-2-1" /> 
+    <item package="com.dewmobile.kuaiya.play" rateId="2-1-2-1" /> 
+    <item package="com.bit.androsmart.kbinapp" rateId="2-1-2-1" /> 
+    <item package="com.dencreak.dlcalculator" rateId="2-1-2-1" /> 
+    <item package="com.mor.promplus" rateId="2-1-2-1" /> 
+    <item package="com.meetyou.intl" rateId="2-1-2-1" /> 
+    <item package="com.daemon.shelper" rateId="2-1-2-1" /> 
+    <item package="com.cloudflare.onedotonedotonedotone" rateId="2-1-2-1" /> 
+    <item package="com.google.android.apps.chromecast.app" rateId="3-1-2-3" /> 
+    <item package="com.google.android.apps.youtube.creator" rateId="2-1-2-1" /> 
+    <item package="com.example.myapplication" rateId="2-1-2-3" appreqfirst="true"/> 
+
+    
+    <item package="com.coloros.weather" rateId="3-1-2-3" /> 
+    <item package="com.coloros.weather.service" rateId="3-1-2-3" /> 
+    <item package="com.coloros.relax" rateId="3-1-2-3" /> 
+    <item package="com.nearme.note" rateId="3-1-2-3" /> 
+    <item activity="android.view.cts/.DisplayRefreshRateCtsActivity" disableViewOverride="true" package="android.view.cts" rateId="3-1-2-3" />
+    <item package="com.coloros.directui/com.coloros.colordirectservice" rateId="3-1-2-3" /> 
+    <item package="com.coloros.directui" rateId="3-1-2-3" /> 
+    <item package="com.nearme.themestore" rateId="3-1-2-3" /> 
+    <item package="com.oplus.themestore" rateId="3-1-2-3" /> 
+    <item package="com.redteamobile.roaming" rateId="3-1-2-3" /> 
+    <item activity="com.redteamobile.roaming/com.redteamobile.roaming.MainActivity" package="com.redteamobile.roaming" rateId="3-1-2-3" />  
+    <item package="com.oplus.aod" rateId="3-1-2-3" /> 
+    <item activity="com.oplus.aod/com.oplus.aod.activity.AodHomeActivity" package="com.oplus.aod" rateId="3-1-2-3" />  
+    <item package="com.google.android.permissioncontroller" rateId="3-1-2-3" /> 
+    <item package="com.oplus.vip" rateId="3-1-2-3" /> 
+    <item package="com.nearme.instant.platfor" rateId="3-1-2-3" /> 
+    <item package="com.oneplus.bbs" rateId="3-1-2-3" /> 
+    <item package="com.google.android.contacts" rateId="3-1-2-3" /> 
+    <item package="com.google.android.apps.tachyon" rateId="3-1-2-3" /> 
+
+    
+    <item package="tv.mirada.iris.android.inspire.izzigo" rateId="1-1-2-1" /> 
+    <item package="com.livescore" rateId="1-1-2-1" /> 
+    <item package="com.sonyliv" rateId="1-1-2-1" /> 
+
+    
+    <item package="com.facebook.katana" rateId="1-1-2-3" /> 
+    <item package="com.instagram.android" rateId="1-1-2-3" /> 
+    <item package="com.facebook.lite" rateId="1-1-2-3" /> 
+    <item package="world.social.group.video.share" rateId="1-1-2-3" /> 
+    <item package="com.twitter.android" rateId="1-1-2-3" /> 
+    <item package="com.gojek.app" rateId="1-1-2-3" /> 
+    <item package="com.pinterest" rateId="1-1-2-3" /> 
+    <item package="id.bmri.livin" rateId="1-1-2-3" /> 
+    <item package="com.facebook.mlite" rateId="1-1-2-3" /> 
+    <item package="com.snapchat.android" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.instagram.lite" rateId="1-1-2-3" /> 
+    <item package="com.facebook.appmanager" rateId="1-1-2-3" /> 
+    <item package="com.linkedin.android" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.nglreactnative" rateId="1-1-2-3" /> 
+    <item package="tv.twitch.android.app" rateId="1-1-2-3" /> 
+    <item package="com.discord" rateId="1-1-2-3" /> 
+    <item package="com.facebook.katana:999" rateId="1-1-2-3" /> 
+    <item package="sports.caliente.mx.calientedeportes" rateId="1-1-2-3" /> 
+    <item package="com.reddit.frontpage" rateId="1-1-2-3" /> 
+    <item package="com.facebook.pages.app" rateId="1-1-2-3" /> 
+    <item package="com.hornet.android" rateId="1-1-2-3" /> 
+    <item package="com.bd.nproject" rateId="1-1-2-3" /> 
+    <item package="th.media.itsme" rateId="1-1-2-3" /> 
+    <item package="com.instapro2.android" rateId="1-1-2-3" /> 
+    <item package="com.instander.android" rateId="1-1-2-3" /> 
+    <item package="com.jeevansathi.android" rateId="1-1-2-3" /> 
+    <item package="com.excean.parallelspace" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.ss.android.ugc.trill" rateId="2-1-2-1" /> 
+    <item package="com.zhiliaoapp.musically.go" rateId="2-1-2-1" /> 
+    <item package="video.like" rateId="2-1-2-1" /> 
+    <item package="com.zhiliaoapp.musically" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.shopee.id" rateId="1-1-2-3" /> 
+    <item package="com.lazada.android" rateId="1-1-2-3" /> 
+    <item package="com.tokopedia.tkpd" rateId="1-1-2-3" /> 
+    <item package="com.telkomsel.telkomselcm" rateId="1-1-2-3" /> 
+    <item package="io.silvrr.installment" rateId="1-1-2-3" /> 
+    <item package="com.pure.indosat.care" rateId="1-1-2-3" /> 
+    <item package="com.linkit.bimatri" rateId="1-1-2-3" /> 
+    <item package="com.alfamart.alfagift" rateId="1-1-2-3" /> 
+    <item package="mypoin.indomaret.android" rateId="1-1-2-3" /> 
+    <item package="blibli.mobile.commerce" rateId="1-1-2-3" /> 
+    <item package="com.zzkko" rateId="1-1-2-3" /> 
+    <item package="com.mercadolibre" rateId="1-1-2-3" /> 
+    <item package="com.amazon.mShop.android.shopping" rateId="1-1-2-3" /> 
+    <item package="com.alibaba.aliexpresshd" rateId="1-1-2-3" /> 
+    <item package="mx.com.liverpool.shoppingapp" rateId="1-1-2-3" /> 
+    <item package="com.shopee.mx" rateId="1-1-2-3" /> 
+    <item package="com.shopee.th" rateId="1-1-2-3" /> 
+    <item package="com.ais.mimo.eservice" rateId="1-1-2-3" /> 
+    <item package="com.lotuss.oneapp" rateId="1-1-2-3" /> 
+    <item package="in.amazon.mShop.android.shopping" rateId="1-1-2-3" /> 
+    <item package="com.flipkart.android" rateId="1-1-2-3" /> 
+    <item package="com.myntra.android" rateId="1-1-2-3" /> 
+    <item package="com.ril.ajio" rateId="1-1-2-3" /> 
+    <item package="com.olx.southasia" rateId="1-1-2-3" /> 
+    <item package="com.meesho.supply" rateId="1-1-2-3" /> 
+    <item package="com.bigbasket.mobileapp" rateId="1-1-2-3" /> 
+    <item package="com.dream11sportsguru" rateId="1-1-2-3" /> 
+    <item package="com.fsn.nykaa" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.oplus.encryption" rateId="2-1-2-1" /> 
+    <item activity="com.oplus.encryption/com.oplus.encryption.main.activity.EncryptionMainActivity" package="com.oplus.encryption" rateId="3-1-2-3" />
+    <item package="mx.com.telcel.di.sds.gsac.dapmov.mdm_telcel" rateId="2-1-2-1" /> 
+    <item package="com.mm.android.direct.gdmssphone" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.coloros.gallery3d" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item activity="com.coloros.gallery3d/com.oplus.gallery.framework.abilities.cloudsync.ui.CloudSettingsActivity" package="com.coloros.gallery3d" rateId="3-1-2-3" />
+    <item package="com.oneplus.gallery" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.photos" rateId="1-1-2-3" /> 
+    <item package="com.bigwinepot.nwdn.international" rateId="1-1-2-3" /> 
+    <item package="com.oplus.wallpapers" rateId="1-1-2-3" /> 
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.home.HomeActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.wallpaperpreview.online.staticw.OnlineStaticWallpaperPreviewActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.personal.PersonalActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.themes.edit.ThemeEditActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.themes.manager.ThemeManagerActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />  
+    <item activity="com.oplus.wallpapers/com.oplus.wallpapers.inspiration.InspirationTemplatesActivity" package="com.oplus.wallpapers" rateId="3-1-2-3" />   
+    <item package="com.adobe.lrmobile" rateId="1-1-2-3" /> 
+    <item package="com.commsource.beautyplus" rateId="1-1-2-3" /> 
+    <item package="statussaver.deleted.messages.savevidieos" rateId="1-1-2-3" /> 
+    <item package="com.digitalproshare.filmapp" rateId="1-1-2-3" /> 
+    <item package="jp.ne.ibis.ibispaintx.app" rateId="1-1-2-3" /> 
+    <item package="com.gorgeous.liteinternational" rateId="1-1-2-3" /> 
+    <item package="photo.editor.polarr" rateId="1-1-2-3" /> 
+
+    
+    <item package="id.dana" rateId="1-1-2-3" /> 
+    <item package="id.co.bri.brimo" rateId="1-1-2-3" /> 
+    <item package="com.bca" rateId="1-1-2-3" /> 
+    <item package="com.axis.net" rateId="1-1-2-3" /> 
+    <item package="com.apps.MyXL" rateId="1-1-2-3" /> 
+    <item package="src.com.bni" rateId="1-1-2-3" /> 
+    <item package="com.finaccel.android" rateId="1-1-2-3" /> 
+    <item package="com.smartfren" rateId="1-1-2-3" /> 
+    <item package="com.fintopia.idnEasycash.google" rateId="1-1-2-3" /> 
+    <item package="com.bancomer.mbanking" rateId="1-1-2-3" /> 
+    <item package="mx.com.bancoazteca.bazdigitalmovil" rateId="1-1-2-3" /> 
+    <item package="mx.com.miapp" rateId="1-1-2-3" /> 
+    <item package="org.microemu.android.model.common.VTUserApplicationBNRTMB" rateId="1-1-2-3" /> 
+    <item package="com.citibanamex.banamexmobile" rateId="1-1-2-3" /> 
+    <item package="mx.bancosantander.supermovil" rateId="1-1-2-3" /> 
+    <item package="com.mercadopago.wallet" rateId="1-1-2-3" /> 
+    <item package="com.pagopopmobile" rateId="1-1-2-3" /> 
+    <item package="com.flix.Pocketplus" rateId="1-1-2-3" /> 
+    <item package="com.scb.phone" rateId="1-1-2-3" /> 
+    <item package="ktbcs.netbank" rateId="1-1-2-3" /> 
+    <item package="th.co.truemoney.wallet" rateId="1-1-2-3" /> 
+    <item package="com.mobilife.gsb.mymo" rateId="1-1-2-3" /> 
+    <item package="com.bbl.mobilebanking" rateId="1-1-2-3" /> 
+    <item package="com.krungsri.kma" rateId="1-1-2-3" /> 
+    <item package="com.TMBTOUCH.PRODUCTION" rateId="1-1-2-3" /> 
+    <item package="com.ktb.customer.qr" rateId="1-1-2-3" /> 
+    <item package="com.bcel.bcelone" rateId="1-1-2-3" /> 
+    <item package="com.ccpp.baac" rateId="1-1-2-3" /> 
+    <item package="com.ktb.merchant.tungngern" rateId="1-1-2-3" /> 
+    <item package="com.baac.amobileplus" rateId="1-1-2-3" /> 
+    <item package="com.hahimoney.android.loan" rateId="1-1-2-3" /> 
+    <item package="com.th.aeon.app.aeon.pro" rateId="1-1-2-3" /> 
+    <item package="com.plaeskado.punpop.sso" rateId="1-1-2-3" /> 
+    <item package="com.aim.android.umay" rateId="1-1-2-3" /> 
+    <item package="com.phonepe.app" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.nbu.paisa.user" rateId="1-1-2-3" /> 
+    <item package="com.zerodha.kite3" rateId="1-1-2-3" /> 
+    <item package="net.one97.paytm" rateId="1-1-2-3" /> 
+    <item package="com.dreamplug.androidapp" rateId="1-1-2-3" /> 
+    <item package="com.msf.angelmobile" rateId="1-1-2-3" /> 
+    <item package="com.nextbillion.groww" rateId="1-1-2-3" /> 
+    <item package="com.csam.icici.bank.imobile" rateId="1-1-2-3" /> 
+    <item package="com.jio.myjio" rateId="1-1-2-3" /> 
+    <item package="com.snapwork.hdfc" rateId="1-1-2-3" /> 
+    <item package="com.tradingview.tradingviewapp" rateId="1-1-2-3" /> 
+    <item package="in.upstox.pro" rateId="1-1-2-3" /> 
+    <item package="com.divum.MoneyControl" rateId="1-1-2-3" /> 
+    <item package="com.axis.mobile" rateId="1-1-2-3" /> 
+    <item package="com.myairtelapp" rateId="1-1-2-3" /> 
+    <item package="com.binance.dev" rateId="1-1-2-3" /> 
+    <item package="com.msf.kbank.mobile" rateId="1-1-2-3" /> 
+    <item package="com.ge.capital.konysbiapp" rateId="1-1-2-3" /> 
+    <item package="com.icicibank.ibizz" rateId="1-1-2-3" /> 
+    <item package="net.metaquotes.metatrader5" rateId="1-1-2-3" /> 
+    <item package="in.marketpulse" rateId="1-1-2-3" /> 
+    <item package="org.altruist.BajajExperia" rateId="1-1-2-3" /> 
+    <item package="com.idfcfirstbank.optimus" rateId="1-1-2-3" /> 
+    <item package="com.paypal.android.p2pmobile" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.google.android.apps.magazines" rateId="1-1-2-3" /> 
+    <item package="com.jakarta.baca.lite" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.subscriptions.red" rateId="1-1-2-3" /> 
+    <item package="com.vkontakte.android" rateId="1-1-2-3" /> 
+    <item package="com.eterno" rateId="1-1-2-3" /> 
+    <item package="com.ak.ta.dainikbhaskar.activity" rateId="1-1-2-3" /> 
+    <item package="sun.way2sms.hyd.com" rateId="1-1-2-3" /> 
+    <item package="com.toi.reader.activities" rateId="1-1-2-3" /> 
+    <item package="com.app.cricketapp" rateId="1-1-2-3" /> 
+    <item package="com.marrow" rateId="1-1-2-3" /> 
+    <item package="com.ak.ta.divya.bhaskar.activity" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.google.android.apps.youtube.music" rateId="3-1-2-3" /> 
+    <item package="com.spotify.music" rateId="2-1-2-1" /> 
+    <item package="com.moonvideo.android.resso" rateId="2-1-2-1" /> 
+    <item package="com.starmakerinteractive.starmaker" rateId="2-1-2-1" /> 
+    <item package="com.mmm.trebelmusic" rateId="2-1-2-1" /> 
+    <item package="com.kapp.youtube.final" rateId="2-1-2-1" /> 
+    <item package="com.soundcloud.android" rateId="2-1-2-1" /> 
+    <item package="com.tencent.ibg.joox" rateId="2-1-2-1" /> 
+    <item package="com.gulbers.alkitabkidung" rateId="2-1-2-1" /> 
+    <item package="com.android.fmradio" rateId="2-1-2-1" /> 
+    <item package="com.google.android.tts" rateId="3-1-2-3" /> 
+    <item package="com.coloros.musiclink" rateId="2-1-2-1" /> 
+    <item package="com.dywx.larkplayer" rateId="2-1-2-1" /> 
+    <item package="com.shaiban.audioplayer.mplayer" rateId="2-1-2-1" /> 
+    <item package="com.esound" rateId="2-1-2-1" /> 
+    <item package="musicplayer.musicapps.music.mp3player" rateId="2-1-2-1" /> 
+    <item package="com.vanced.android.apps.youtube.music" rateId="2-1-2-1" /> 
+    <item package="com.amazon.mp3" rateId="2-1-2-1" /> 
+    <item package="com.loudtalks" rateId="2-1-2-1" /> 
+    <item package="com.soundryt.music" rateId="2-1-2-1" /> 
+    <item package="mp3.music.download.player.music.search" rateId="2-1-2-1" /> 
+    <item package="com.musicplayer.music" rateId="2-1-2-1" /> 
+    <item package="deezer.android.app" rateId="2-1-2-1" /> 
+    <item package="com.tencent.wesing" rateId="2-1-2-1" /> 
+    <item package="com.ovelin.guitartuna" rateId="2-1-2-1" /> 
+    <item package="com.bsbportal.music" rateId="2-1-2-1" /> 
+    <item package="com.jio.media.jiobeats" rateId="2-1-2-1" /> 
+    <item package="media.audioplayer.musicplayer" rateId="2-1-2-1" /> 
+
+    
+    <item package="com.google.android.apps.messaging" rateId="3-1-2-3" /> 
+
+    
+
+    
+    <item package="sg.bigo.live" rateId="1-1-2-3" /> 
+    <item package="com.bitsmedia.android.muslimpro" rateId="1-1-2-3" /> 
+    <item package="com.telkom.tracencare" rateId="1-1-2-3" /> 
+    <item package="com.bpjstku" rateId="1-1-2-3" /> 
+    <item package="com.kreditpintar" rateId="1-1-2-3" /> 
+    <item package="com.rappi.storekeeper" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.teams" rateId="1-1-2-3" /> 
+    <item package="com.coppel.coppelapp" rateId="1-1-2-3" /> 
+    <item package="com.xiaojukeji.didi.global.customer" rateId="1-1-2-3" /> 
+    <item package="com.grability.rappi" rateId="1-1-2-3" /> 
+    <item package="com.mm.android.DMSS" rateId="1-1-2-3" /> 
+    <item package="com.ubercab.eats" rateId="1-1-2-3" /> 
+    <item package="com.kasikorn.retail.mbanking.wap" rateId="1-1-2-3" /> 
+    <item package="com.tdcm.trueidapp" rateId="1-1-2-3" /> 
+    <item package="asuk.com.android.app" rateId="1-1-2-3" /> 
+    <item package="com.linecorp.linemanth" rateId="1-1-2-3" /> 
+    <item package="com.wongnai.rms" rateId="1-1-2-3" /> 
+    <item package="com.ookbee.tunwalai.android" rateId="1-1-2-3" /> 
+    <item package="com.global.foodpanda.android" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="th.co.crie.tron2.android" rateId="1-1-2-3" /> 
+    <item package="com.flashexpress.express" rateId="1-1-2-3" /> 
+    <item package="com.truelife.mobile.android.trueiservice" rateId="1-1-2-3" /> 
+    <item package="com.krungsri.uchoose" rateId="1-1-2-3" /> 
+    <item package="com.application.zomato" rateId="1-1-2-3" /> 
+    <item package="in.swiggy.android" rateId="1-1-2-3" /> 
+    <item package="com.sbi.lotusintouch" rateId="1-1-2-3" /> 
+    <item package="com.zeptoconsumerapp" rateId="1-1-2-3" /> 
+    <item package="com.goibibo" rateId="1-1-2-3" /> 
+    <item package="com.ixigo.train.ixitrain" rateId="1-1-2-3" /> 
+    <item package="com.urbanclap.urbanclap" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.pubg.imobile" rateId="1-1-2-1" disableViewOverride="true"/> 
+    <item package="com.pubg.krmobile" rateId="2-1-2-1" disableViewOverride="true"/> 
+    <item package="com.vng.pubgmobile" rateId="2-1-2-1" disableViewOverride="true"/> 
+    <item package="com.rekoo.pubgm" rateId="2-1-2-1" disableViewOverride="true"/> 
+    <item package="com.tencent.igce" rateId="2-1-2-1" disableViewOverride="true"/> 
+    <item package="com.supercell.brawlstars" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.youzu.bs" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.supercell.brawlstars" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.supercell.clashofclans" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.supercell.clashofclans" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.supercell.clashroyale" rateId="3-1-2-3" /> 
+    <item package="com.riotgames.league.wildrift" rateId="2-1-2-3" /> 
+    <item package="com.riotgames.internal.wildrift.trunk" rateId="2-1-2-3" /> 
+    <item package="com.riotgames.internal.wildrift.test" rateId="2-1-2-3" /> 
+    <item package="com.riotgames.league.wildriftvn" rateId="2-1-2-3" /> 
+    <item package="com.garena.game.codm" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.activision.callofduty.shooter" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.kr.codm" rateId="2-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.sgamece" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.miHoYo.enterprise.NGHSoD" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.tencent.tmgp.bh3" rateId="1-1-2-1" disableViewOverride="true" /> 
+    <item package="com.netease.x19" rateId="3-1-2-3" disableViewOverride="true"/> 
+    <item package="com.tencent.tmgp.wdsj666" rateId="3-1-2-3" disableViewOverride="true"/> 
+
+    
+    <item package="com.google.android.apps.docs" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.nbu.files" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.word" rateId="1-1-2-3" /> 
+    <item package="com.google.android.documentsui" rateId="1-1-2-3" /> 
+    <item package="ru.zdevs.zarchiver" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.docs.editors.sheets" rateId="1-1-2-3" /> 
+    <item package="com.dubox.drive" rateId="1-1-2-3" /> 
+    <item package="com.adobe.reader" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.officehubrow" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.docs.editors.docs" rateId="1-1-2-3" /> 
+    <item package="com.google.android.apps.docs.editors.slides" rateId="1-1-2-3" /> 
+    <item package="com.forshared.files" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.excel" rateId="1-1-2-3" /> 
+    <item package="hesoft.T2S" rateId="1-1-2-3" /> 
+    <item package="com.adobe.scan.android" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.todos" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.powerpoint" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.planner" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.onenote" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.skydrive" rateId="1-1-2-3" /> 
+
+    
+    <item package="com.google.android.gm" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.office.outlook" rateId="1-1-2-3" /> 
+    <item package="com.yahoo.mobile.client.android.mail" rateId="1-1-2-3" /> 
+
+    
+
+    
+    <item package="com.whatsapp" rateId="1-1-2-3" /> 
+    <item package="com.whatsapp.w4b" rateId="1-1-2-3" /> 
+    <item package="com.gbwhatsapp" rateId="1-1-2-3" /> 
+    <item package="org.telegram.messenger" rateId="1-1-2-3" /> 
+    <item package="com.facebook.orca" rateId="1-1-2-3" /> 
+    <item package="com.facebook.orca:999" rateId="1-1-2-3" /> 
+    <item package="com.whatsapp:999" rateId="1-1-2-3" /> 
+    <item package="com.michatapp.im" rateId="1-1-2-3" /> 
+    <item package="com.yowhatsapp" rateId="1-1-2-3" /> 
+    <item package="com.mbwhatsapp" rateId="1-1-2-3" /> 
+    <item package="com.fmwhatsapp" rateId="1-1-2-3" /> 
+    <item package="com.litatom.app" rateId="1-1-2-3" /> 
+    <item package="com.andi.alquran.id" rateId="1-1-2-3" /> 
+    <item package="com.imo.android.imoim" rateId="1-1-2-3" /> 
+    <item package="app.source.getcontact" rateId="1-1-2-3" /> 
+    <item package="com.grindrapp.android" rateId="1-1-2-3" /> 
+    <item package="com.pluswhatsapp" rateId="1-1-2-3" /> 
+    <item package="com.tinder" rateId="1-1-2-3" /> 
+    <item package="com.snowcorp.stickerly.android" rateId="1-1-2-3" /> 
+    <item package="com.badoo.mobile" rateId="1-1-2-3" /> 
+    <item package="com.gbwhatsapp3" rateId="1-1-2-3" /> 
+    <item package="com.ookbee.joyapp.android" rateId="1-1-2-3" /> 
+    <item package="in.mohalla.sharechat" rateId="1-1-2-3" /> 
+    <item package="cdi.videostreaming.app" rateId="1-1-2-3" /> 
+    <item package="org.thoughtcrime.securesms" rateId="1-1-2-3" /> 
+    <item package="com.Slack" rateId="1-1-2-3" /> 
+    <item package="com.hkfuliao.chamet" rateId="1-1-2-3" /> 
+    <item package="com.sgiggle.production" rateId="1-1-2-3" /> 
+    <item package="com.skype.raider" rateId="1-1-2-3" /> 
+    <item package="com.shaadi.android" rateId="1-1-2-3" /> 
+    <item package="com.eyecon.global" rateId="1-1-2-3" /> 
+    <item package="com.cisco.webex.meetings" rateId="1-1-2-3" /> 
+    <item package="org.telegram.plus" rateId="1-1-2-3" /> 
+
+    
+
+    
+    <item package="jp.naver.line.android" rateId="1-1-2-3" /> 
+    <item package="jp.naver.line.android:999" rateId="1-1-2-3" /> 
+    <item package="com.viber.voip" rateId="1-1-2-3" /> 
+    <item package="com.linecorp.lineoa" rateId="1-1-2-3" /> 
+    <item package="com.google.android.dialer" rateId="3-1-2-3" /> 
+    <item package="com.truecaller" rateId="3-1-2-3" /> 
+    <item package="sg.omi" rateId="3-1-2-3" /> 
+    <item package="ovo.id" rateId="3-1-2-3" /> 
+    <item package="com.altanredes.altanvoip" rateId="3-1-2-3" /> 
+    <item package="com.callapp.contacts" rateId="3-1-2-3" /> 
+    <item package="gogolook.callgogolook2" rateId="3-1-2-3" /> 
+
+    
+    <item package="com.android.chrome" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.google.android.googlequicksearchbox" rateId="1-1-2-3" /> 
+    <item package="com.oppo.quicksearchbox" rateId="1-1-2-3" /> 
+    <item package="com.UCMobile.intl" rateId="1-1-2-3" disableViewOverride="true"/> 
+    <item package="com.opera.mini.native" rateId="1-1-2-3" /> 
+    <item package="com.google.android.captiveportallogin" rateId="1-1-2-3" /> 
+    <item package="com.happymod.apk" rateId="1-1-2-3" /> 
+    <item package="com.heytap.accessory" rateId="1-1-2-3" /> 
+    <item package="com.brave.browser" rateId="1-1-2-3" /> 
+    <item package="com.microsoft.emmx" rateId="1-1-2-3" /> 
+    <item package="com.sec.android.app.sbrowser" rateId="1-1-2-3" /> 
+    <item package="com.aloha.browser" rateId="1-1-2-3" /> 
+    <item package="com.duckduckgo.mobile.android" rateId="1-1-2-3" /> 
+
+    
+    <item package="e.books.reading.apps" rateId="1-1-2-1" /> 
+    <item package="wp.wattpad" rateId="1-1-2-1" /> 
+    <item package="com.alhiwar" rateId="1-1-2-1" /> 
+    <item package="mobi.mangatoon.novel" rateId="1-1-2-1" /> 
+    <item package="com.google.android.keep" rateId="1-1-2-1" /> 
+    <item package="org.jw.jwlibrary.mobile" rateId="1-1-2-1" /> 
+    <item package="com.crunchyroll.crunchyroid" rateId="1-1-2-1" /> 
+    <item package="mobi.mangatoon.novel.portuguese" rateId="1-1-2-1" /> 
+    <item package="pro.anioload.animecenter" rateId="1-1-2-1" /> 
+    <item package="com.dogs.nine" rateId="1-1-2-1" /> 
+    <item package="com.meb.raw2" rateId="1-1-2-1" /> 
+    <item package="com.kakaoent.kakaowebtoon" rateId="1-1-2-1" /> 
+    <item package="com.amazon.kindle" rateId="1-1-2-1" /> 
+    <item activity="com.oplus.camera/com.oplus.camera.ui.menu.setting.CameraSettingActivity" disableViewOverride="true" package="com.oplus.camera" rateId="3-1-2-3" />  
+    <item activity="com.heytap.usercenter/com.platform.usercenter.ui.AccountLoginActivity" package="com.heytap.usercenter" rateId="3-1-2-3" />  
+    <item activity="com.heytap.usercenter/com.platform.usercenter.ui.UserSettingGuideActivity" package="com.heytap.usercenter" rateId="3-1-2-3" />  
+    <item activity="com.heytap.usercenter/com.platform.usercenter.ui.onkey.UserCenterMulChooseLoginActivity" package="com.heytap.usercenter" rateId="3-1-2-3" />
+    <item activity="com.coloros.securepay/com.coloros.securepay.SecurePayMainActivity" package="com.coloros.securepay" rateId="3-1-2-3" />  
+    <item activity="com.coloros.systemclone/com.coloros.systemclone.ownerspace.OwnerSpaceActivity" package="com.coloros.systemclone" rateId="3-1-2-3" />  
+    <item activity="com.realme.wellbeing/com.realme.wellbeing.features.settings.SettingsActivity" package="com.realme.wellbeing" rateId="3-1-2-3" />  
+    <item activity="com.oplus.heartrate.detect/com.oplus.heartrate.detect.activity.HeartRateMainActivity" package="com.oplus.heartrate.detect" rateId="3-1-2-3" />  
+    <item activity="com.oplus.heartrate.detect/com.oplus.heartrate.detect.activity.HeartRateStartEmptyActivity" package="com.oplus.heartrate.detect" rateId="3-1-2-3" />  
+    <item activity="com.coloros.smartdrive/com.coloros.smartdrive.SmartDriveActivity" package="com.coloros.smartdrive" rateId="3-1-2-3" />  
+    <item activity="com.coloros.focusmode/com.coloros.sleepmode.BreenoSleepModeActivity" package="com.coloros.focusmode" rateId="3-1-2-3" />  
+    <item activity="com.oplus.gtmode/com.oplus.gtmode.GtmodeActivity" package="com.oplus.gtmode" rateId="3-1-2-3" />  
+    <item activity="com.heytap.usercenter/com.platform.usercenter.family.ui.FamilyShareActivity" package="com.heytap.usercenter" rateId="3-1-2-3" />  
+    <item activity="com.heytap.usercenter/com.plaform.usercenter.account.userinfo.login.security.ui.LoginSecurityActivity" package="com.heytap.usercenter" rateId="3-1-2-3" /> 
+    <item activity="com.heytap.usercenter/com.platform.usercenter.ui.logout.CloudLogoutActivity" package="com.heytap.usercenter" rateId="3-1-2-3" />  
+    <item activity="com.coloros.karaoke/com.coloros.karaoke.setting.SettingActivity" package="com.coloros.karaoke" rateId="3-1-2-3" />
+    <item activity="com.coloros.smartlock/com.coloros.smartlock.MainActivity" package="com.coloros.smartlock" rateId="3-1-2-3" />
+    <item activity="com.coloros.smartdrive/com.coloros.smartdrive.QuietTimeDriveActivity" package="com.coloros.smartdrive" rateId="3-1-2-3" />
+    <item activity="com.coloros.smartdrive/com.coloros.smartdrive.CarBluetoothActivity" package="com.coloros.smartdrive" rateId="3-1-2-3" />
+    <item activity="com.android.settings.screenshot/.setting.ScreenshotAboutActivity" package="com.android.settings.screenshot" rateId="3-1-2-3" />
+    <item activity="com.oplus.wifibackuprestore/com.oplus.ocloud.view.WifiCloudSwitchActivity" package="com.oplus.wifibackuprestore" rateId="3-1-2-3" />
+    <item activity="com.android.htmlviewer/com.android.htmlviewer.HTMLViewerActivity" package="com.android.htmlviewer" rateId="3-1-2-3" />
+    <item activity="com.google.android.gsf/com.google.android.gsf.settings.SettingsTosActivity" package="com.google.android.gsf" rateId="3-1-2-3" />
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.SettingsActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />  
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.dashboard.DashboardActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />  
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.winddown.ui.WindDownActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />  
+    <item activity="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.focusmode.ui.FocusModeActivity" package="com.google.android.apps.wellbeing" rateId="3-1-2-3" />  
+
+    <cameraOverride package="com.whatsapp" />
+    <cameraOverride package="com.tencent.mobileqq" />
+    <cameraOverride package="com.tencent.mm" />
+
+    
+    <enableAwlaysOriginal package="android.graphics.cts" />
+    <enableAwlaysOriginal package="android.display.cts" />
+    <enableAwlaysOriginal package="android.view.cts" />
+    <enableAwlaysOriginal package="android.cts.graphics" />
+    <enableAwlaysOriginal package="android.view.surfacecontrol.cts" />
+    <!--inputMethodLowRate 为true输入法降帧，默认为false
+      enableRateOverride 默认为true,为false表示surfaceview，texture场景不降
+      enableFodHighRate true表示可以支持指纹高刷新请求，默认false，部分项目指纹闪屏需要配置
+      voiceSceneLowRate 为ture微信发语音降帧，默认为false；voiceSceneLowRateDelay 为微信发语音降帧延时，500表示500ms后进行降帧，默认为1.5 -->
+    <config highBrightnessRateId="3" maxrefreshsettings="3" enableFodHighRate="true" enableAppSwitchBoost="true" appSwitchBoostType="0" increaseRefreshRate="true"/>
+</refresh_rate_config>

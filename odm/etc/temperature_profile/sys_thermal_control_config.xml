@@ -1,0 +1,88 @@
+<sys_thermal_control_list>
+    <version>2025063018</version>
+    <filter-name>sys_thermal_control_list</filter-name>
+    <featureConfigItem>
+        <feature_enable_item booleanVal="false" />
+        <feature_safety_test_enable_item booleanVal="false" />
+        <feature_safety_optimize_enable_item booleanVal="true" />
+        <safety_test_config_item stringVal="01111,10111,11011,11101,11110,00111,01011,01101,01110,10011,10101,10110,11001,11010,11100,11111" />
+        <ota_mode_item intVal="-1" />
+        <racing_mode_item intVal="-1" />
+        <normal_mode_item intVal="-1" />
+        <powersave_mode_item intVal="1" />
+        <safety_thermal_level_item intVal="7" />
+        <game_powersave_mode_item intVal="1" />
+        <aging_thermal_control_enable_item booleanVal="false" />
+        <aging_cpu_level_item intVal="-1" />
+        <ambient_temp_low_limit_item intVal="0" />
+        <ambient_temp_upper_limit_item intVal="28" />
+        <app_switch_safety_mode_level_item intVal="5" />
+        <racing_high_temp_safety_level_item intVal="17"/>
+        <float_window_item intVal="1" />
+        <ipa_feature_item booleanVal="true" />
+    </featureConfigItem>
+    <feature name="level">
+        <config name="thermal_cpulevel">
+            <!-- Pay attention to the order of numbers：maxCpuCore="silver,gold,prime,titanium" maxCpuFreq="silver,gold,prime,titanium" boostCpuCoreCeiling="silver,gold,prime,titanium" boostCeiling="silver,gold,prime,titanium" -->
+        </config>
+        <config name="thermal_gpulevel">
+        </config>
+    </feature>
+    <feature name="heatsource">
+        <config name="heatsource_level">
+            <component name="cpu">
+            </component>
+            <component name="gpu">
+            </component>
+            <component name="wifi">
+            </component>
+            <component name="cellular">
+            </component>
+            <component name="display">
+            </component>
+        </config>
+        <config name="heatoffset_policy">
+            <policy index="00">
+            </policy>
+            <policy index="01">
+            </policy>
+            <policy index="02">
+            </policy>
+        </config>
+    </feature>
+    <feature name="tsensor_feature">
+        <config name="tsensor">
+            <sensor name="cpu" except_scene="200010-200020">
+            </sensor>
+        </config>
+        <config name="except_scenes">
+            <item thermal_scene="200020" black_list="scene_104," />
+        </config>
+    </feature>
+    <thermalPolicyConfigItem>
+        <globalPolicy>
+            <globalPolicy>
+            </globalPolicy>
+        </globalPolicy>
+        <safetyTest>
+            <safety_test>
+            </safety_test>
+        </safetyTest>
+        <screenOff>
+            <screen_off>
+            </screen_off>
+        </screenOff>
+        <specific>
+        </specific>
+        <specificScene>
+        </specificScene>
+        <scene>
+        </scene>
+        <category>
+        </category>
+        <default>
+            <common_config>
+            </common_config>
+        </default>
+    </thermalPolicyConfigItem>
+</sys_thermal_control_list>
