@@ -1,8 +1,8 @@
 id=extreme_gt
 name=Extreme GT
-version=4.2.2
-versionCode=4211
-author=嘟嘟ski & SCENE
-description=本模块由SCENE生成，用于去除OPPO、Realme、OnePlus机型的锁帧和部分温控限制
+version=4.2.3-fix
+versionCode=4213
+author=嘟嘟ski & SCENE (WiFi Fix by Haoduo9 & 小六六)
+description=本模块由SCENE生成，去除锁帧和温控。修复高通 WCN785x PCIe D3cold WiFi 睡死，优化快充至46.5℃顶7A/47℃降2.5A防抽搐断充。
 minMagisk=17000
 updateJson=https://vtools.oss-cn-beijing.aliyuncs.com/addin/extreme_gt.json
