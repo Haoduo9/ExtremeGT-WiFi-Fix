@@ -1,10 +1,5 @@
 # SCENE'ExtremeGT
 
-# 核心保留：防止 WiFi 芯片进入 PCIe D3cold 深度下电假死
-if [[ -d /sys/bus/pci/devices/0000:01:00.0/power ]]; then
-  echo on > /sys/bus/pci/devices/0000:01:00.0/power/control 2>/dev/null
-fi
-
 t=29500
 bat_t=29500
 shell_t=33000

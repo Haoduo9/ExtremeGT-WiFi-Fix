@@ -15,10 +15,10 @@
     <HighTemperatureProtectShutDown>750</HighTemperatureProtectShutDown>
     <MediumTemperatureProtectThreshold>10000</MediumTemperatureProtectThreshold>
     <HighTemperatureDisableFlashSwitch>false</HighTemperatureDisableFlashSwitch>
-    <HighTemperatureDisableFlashLimit>480</HighTemperatureDisableFlashLimit>
+    <HighTemperatureDisableFlashLimit>490</HighTemperatureDisableFlashLimit>
     <HighTemperatureEnableFlashLimit>470</HighTemperatureEnableFlashLimit>
     <HighTemperatureDisableFlashChargeSwitch>false</HighTemperatureDisableFlashChargeSwitch>
-    <HighTemperatureDisableFlashChargeLimit>480</HighTemperatureDisableFlashChargeLimit>
+    <HighTemperatureDisableFlashChargeLimit>490</HighTemperatureDisableFlashChargeLimit>
     <HighTemperatureEnableFlashChargeLimit>470</HighTemperatureEnableFlashChargeLimit>
     <camera_temperature_limit>520</camera_temperature_limit>
     <HighTemperatureControlVideoRecordSwitch>false</HighTemperatureControlVideoRecordSwitch>
@@ -29,7 +29,7 @@
     <ToleranceSecondStepIn>520</ToleranceSecondStepIn>
     <ToleranceSecondStepOut>500</ToleranceSecondStepOut>
     <ToleranceThreshold>50</ToleranceThreshold>
-    <ToleranceStart>480</ToleranceStart>
-    <ToleranceStop>460</ToleranceStop>
+    <ToleranceStart>490</ToleranceStart>
+    <ToleranceStop>470</ToleranceStop>
     <ToleranceInterval>30000</ToleranceInterval>
 </filter-conf>
