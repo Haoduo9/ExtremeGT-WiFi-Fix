@@ -1,8 +1,8 @@
 id=extreme_gt
 name=Extreme GT
-version=4.2.3-fix
-versionCode=4213
+version=4.2.4-fix
+versionCode=4214
 author=嘟嘟ski & SCENE (WiFi Fix by Haoduo9 & 小六六)
-description=本模块由SCENE生成，去除锁帧和温控。修复高通 WCN785x PCIe D3cold WiFi 睡死，优化快充至46.5℃顶7A/47℃降2.5A防抽搐断充。
+description=本模块由SCENE生成，去除锁帧和温控。修复高通 WCN785x PCIe D3cold WiFi 睡死，优化快充至46.5℃顶7A/47℃降5A/47.5℃降4.5A防抽搐断充。
 minMagisk=17000
 updateJson=https://vtools.oss-cn-beijing.aliyuncs.com/addin/extreme_gt.json
