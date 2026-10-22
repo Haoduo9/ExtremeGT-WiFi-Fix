@@ -1,8 +1,8 @@
 id=extreme_gt
 name=Extreme GT (WiFi & 快充优化版)
-version=4.2.4-fix
-versionCode=4214
+version=4.2.6-fix
+versionCode=4216
 author=嘟嘟ski & SCENE (二次修改: 小六六 & 小小六)
-description=基于 SCENE 原版二次修改：彻底修复高通 WCN785x PCIe D3cold 睡眠 WiFi 假死断流；精细调优 SVOOC 快充温控阶梯 (46.5℃ 7A / 47℃ 5A / 47.5℃ 4.5A)，告别 48℃ 硬件反复抽搐断充。
+description=基于 SCENE 原版二次修改：彻底修复高通 WCN785x PCIe D3cold 睡眠 WiFi 假死断流；精细调优 SVOOC 快充温控阶梯 (46.5℃ 4.5A / 47℃ 3A / 47.5℃ 1.5A)，告别 48℃ 硬件反复抽搐断充。
 minMagisk=17000
 updateJson=https://vtools.oss-cn-beijing.aliyuncs.com/addin/extreme_gt.json
